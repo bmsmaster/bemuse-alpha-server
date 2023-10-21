@@ -1,0 +1,3932 @@
+{
+  "urls": [
+    {
+      "url": "https://bmsmaster.github.io/bemuse-alpha/vocaloid1/",
+      "added": "2023-09-20"
+    },
+    {
+      "url": "https://bmsmaster.github.io/bemuse-alpha/vocaloid2/",
+      "added": "2023-09-20"
+    },
+    {
+      "url": "https://bmsmaster.github.io/bemuse-alpha/uouo1/",
+      "added": "2023-09-20"
+    },
+    {
+      "url": "https://bmsmaster.github.io/bemuse-alpha/remix1/",
+      "added": "2023-09-20"
+    },
+    {
+      "url": "https://bmsmaster.github.io/bemuse-alpha/general1/",
+      "added": "2023-09-20"
+    },
+    {
+      "url": "https://bmsmaster.github.io/bemuse-alpha/MayBeRemovedIfRequested/raligun/",
+      "added": "2023-09-20"
+    },
+    {
+      "url": "https://bmsmaster.github.io/bemuse-alpha/general2/",
+      "added": "2023-09-22"
+    },
+    {
+      "url": "https://bmsmaster.github.io/bemuse-alpha/general3/",
+      "added": "2023-09-22"
+    },
+    {
+      "url": "https://bmsmaster.github.io/bemuse-alpha/velpoin1/",
+      "added": "2023-09-22"
+    },
+    {
+      "url": "https://bmsmaster.github.io/bemuse-alpha/ym1/",
+      "added": "2023-09-22"
+    },
+    {
+      "url": "https://bmsmaster.github.io/bemuse-alpha/general4/",
+      "added": "2023-09-22"
+    },
+    {
+      "url": "https://bmsmaster.github.io/bemuse-alpha/MayBeRemovedIfRequested/onlylove/",
+      "added": "2023-09-22"
+    },
+    {
+      "url": "https://bmsmaster.github.io/bemuse-alpha/tutorial/",
+      "added": "2023-09-23"
+    },
+    {
+      "url": "https://bmsmaster.github.io/bemuse-alpha/general5/",
+      "added": "2023-09-24"
+    },
+    {
+      "url": "https://bmsmaster.github.io/bemuse-alpha/tanoc1/",
+      "added": "2023-09-24"
+    },
+    {
+      "url": "https://bmsmaster.github.io/bemuse-alpha/vocaloid3/",
+      "added": "2023-09-27"
+    },
+    {
+      "url": "https://bmsmaster.github.io/bemuse-alpha/MayBeRemovedIfRequested/oblivion/",
+      "added": "2023-09-27"
+    },
+    {
+      "url": "https://bmsmaster.github.io/songs/[litmus]finalstriker/",
+      "added": "2023-10-04"
+    },
+    {
+      "url": "https://bmsmaster.github.io/songs/[mikado]digdugdog/",
+      "added": "2023-10-04"
+    },
+    {
+      "url": "https://bmsmaster.github.io/songs/[numuto]nyanta/",
+      "added": "2023-10-04"
+    },
+    {
+      "url": "https://bmsmaster.github.io/songs/[singularity]convergence/",
+      "added": "2023-10-04"
+    },
+    {
+      "url": "https://bmsmaster.github.io/songs/[chilldive]catsrule/",
+      "added": "2023-10-04"
+    },
+    {
+      "url": "https://bmsmaster.github.io/songs/[saaa]morningloom/",
+      "added": "2023-10-09"
+    },
+    {
+      "url": "https://bmsmaster.github.io/songs/[litmus]savethenight/",
+      "added": "2023-10-11"
+    },
+    {
+      "url": "https://bmsmaster.github.io/songs/[mikado]rescue/",
+      "added": "2023-10-11"
+    },
+    {
+      "url": "https://bmsmaster.github.io/songs/[nora]bbkkbkk/",
+      "added": "2023-10-16"
+    }
+  ],
+  "songs": [
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "11ac0d6ca3025c1de21e35190b915e82",
+          "info": {
+            "title": "Fall to Sky",
+            "artist": "KIRA feat.初音ミク",
+            "genre": "Miku Transky",
+            "subtitles": [
+              "Another"
+            ],
+            "subartists": [
+              "BGA : ごまたまご"
+            ],
+            "difficulty": 4,
+            "level": 12
+          },
+          "noteCount": 1875,
+          "bpm": {
+            "init": 150,
+            "min": 150,
+            "median": 150,
+            "max": 150
+          },
+          "duration": 148.7,
+          "scratch": true,
+          "keys": "7K",
+          "file": "ftsky_a.bms"
+        },
+        {
+          "md5": "c7958d386c92c5fa9862e2221768d76f",
+          "info": {
+            "title": "Fall to Sky",
+            "artist": "KIRA feat. 初音ミク",
+            "genre": "Miku Transky",
+            "subtitles": [
+              "Hyper"
+            ],
+            "subartists": [
+              "BGA : ごまたまご"
+            ],
+            "difficulty": 3,
+            "level": 11
+          },
+          "noteCount": 1419,
+          "bpm": {
+            "init": 150,
+            "min": 150,
+            "median": 150,
+            "max": 150
+          },
+          "duration": 148.7,
+          "scratch": true,
+          "keys": "7K",
+          "file": "ftsky_h.bms"
+        },
+        {
+          "md5": "98f6f1c7107bb1b18c1e4e3b80c7f0e1",
+          "info": {
+            "title": "Fall to Sky",
+            "artist": "KIRA feat. 初音ミク",
+            "genre": "Miku Transky",
+            "subtitles": [
+              "Normal"
+            ],
+            "subartists": [
+              "BGA : ごまたまご"
+            ],
+            "difficulty": 0,
+            "level": 8
+          },
+          "noteCount": 913,
+          "bpm": {
+            "init": 150,
+            "min": 150,
+            "median": 150,
+            "max": 150
+          },
+          "duration": 148.7,
+          "scratch": true,
+          "keys": "7K",
+          "file": "ftsky_n.bms"
+        }
+      ],
+      "title": "Fall to Sky",
+      "artist": "KIRA feat.初音ミク",
+      "genre": "Miku Transky",
+      "bpm": 150,
+      "replaygain": "-9.1 dB",
+      "preview_offset": 90.4,
+      "preview_url": "bemuse-data/preview.mp3",
+      "song_url": "https://soundcloud.com/kira0118/fall-to-sky",
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=90&event=116",
+      "long_url": "https://www.nicovideo.jp/watch/sm32601795?via=thumb_watch&at=title&state=started&ref=vocadb.net&from=4",
+      "bmssearch_id": "zIDn2U9rwHCr76",
+      "artist_url": "https://www.nicovideo.jp/watch/sm32601795?via=thumb_watch&at=title&state=started&ref=vocadb.net&from=4",
+      "readme": "README.md",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+      "added": "2023-09-20T00:00:00.000Z",
+      "id": "vocaloid1",
+      "path": "https://bmsmaster.github.io/bemuse-alpha/vocaloid1/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "f388a9edf5fdf0950964ac06eac1e0d4",
+          "info": {
+            "title": "Eternal Adventure",
+            "artist": "YuKa feat.IA",
+            "genre": "J-POP+",
+            "subtitles": [
+              "Another"
+            ],
+            "subartists": [],
+            "difficulty": 4,
+            "level": 12
+          },
+          "noteCount": 2228,
+          "bpm": {
+            "init": 259,
+            "min": 259,
+            "median": 259,
+            "max": 259
+          },
+          "duration": 127.87644787644788,
+          "scratch": true,
+          "keys": "7K",
+          "file": "A.bms"
+        },
+        {
+          "md5": "6d5551cd258014b8d3712b239aab7058",
+          "info": {
+            "title": "Eternal Adventure",
+            "artist": "YuKa feat.IA",
+            "genre": "J-POP+",
+            "subtitles": [
+              "Hyper"
+            ],
+            "subartists": [],
+            "difficulty": 3,
+            "level": 10
+          },
+          "noteCount": 1295,
+          "bpm": {
+            "init": 259,
+            "min": 259,
+            "median": 259,
+            "max": 259
+          },
+          "duration": 127.87644787644788,
+          "scratch": true,
+          "keys": "7K",
+          "file": "H.bms"
+        },
+        {
+          "md5": "7433c001b7ddb2192e83ced34a7cd053",
+          "info": {
+            "title": "Eternal Adventure",
+            "artist": "YuKa feat.IA",
+            "genre": "J-POP+",
+            "subtitles": [
+              "Normal"
+            ],
+            "subartists": [],
+            "difficulty": 2,
+            "level": 6
+          },
+          "noteCount": 714,
+          "bpm": {
+            "init": 259,
+            "min": 259,
+            "median": 259,
+            "max": 259
+          },
+          "duration": 127.87644787644788,
+          "scratch": true,
+          "keys": "7K",
+          "file": "N.bms"
+        }
+      ],
+      "title": "Eternal Adventure",
+      "artist": "YuKa feat.IA",
+      "genre": "J-POP+",
+      "bpm": 259,
+      "replaygain": "-5.84 dB",
+      "preview_offset": 49.575,
+      "preview_url": "bemuse-data/preview.mp3",
+      "song_url": "https://soundcloud.com/yk61074/eternal-adventure",
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=290&event=137",
+      "bmssearch_id": "_cHpl0kwQ-DQwd",
+      "readme": "README.md",
+      "added": "2023-09-20T00:00:00.000Z",
+      "id": "vocaloid2",
+      "path": "https://bmsmaster.github.io/bemuse-alpha/vocaloid2/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "30c61514fa2e9d977a200b274d3f77b7",
+          "info": {
+            "title": "ネイクド・ワイルド・パラノイド",
+            "artist": "kei_iwata + saaa",
+            "genre": "ニューエロティックムーディー",
+            "subtitles": [
+              "[5KEYS]"
+            ],
+            "subartists": [
+              "BGA:内村徹 / obj: BMS Chart Master"
+            ],
+            "difficulty": 4,
+            "level": 9
+          },
+          "noteCount": 1454,
+          "bpm": {
+            "init": 180,
+            "min": 180,
+            "median": 180,
+            "max": 180
+          },
+          "duration": 142.67366499052915,
+          "scratch": true,
+          "keys": "5K",
+          "file": "@5K.bms"
+        },
+        {
+          "md5": "65c06aa369f1cbd31221cc98051f4c5d",
+          "info": {
+            "title": "ネイクド・ワイルド・パラノイド",
+            "artist": "kei_iwata + saaa",
+            "genre": "ニューエロティックムーディー",
+            "subtitles": [
+              "[DEVIL]"
+            ],
+            "subartists": [
+              "BGA:内村徹 / obj: BMS Chart Master"
+            ],
+            "difficulty": 5,
+            "level": 26
+          },
+          "noteCount": 3000,
+          "bpm": {
+            "init": 180,
+            "min": 180,
+            "median": 180,
+            "max": 180
+          },
+          "duration": 142.681831783731,
+          "scratch": true,
+          "keys": "7K",
+          "file": "@Devil.bms"
+        },
+        {
+          "md5": "fc63360d02056d19635e0b66c0f3d462",
+          "info": {
+            "title": "ネイクド・ワイルド・パラノイド",
+            "artist": "kei_iwata + saaa",
+            "genre": "ニューエロティックムーディー",
+            "subtitles": [
+              "[パラノイド]"
+            ],
+            "subartists": [
+              "BGA:内村徹"
+            ],
+            "difficulty": 5,
+            "level": 21
+          },
+          "noteCount": 2705,
+          "bpm": {
+            "init": 180,
+            "min": 180,
+            "median": 180,
+            "max": 180
+          },
+          "duration": 142.67366499052915,
+          "scratch": true,
+          "keys": "7K",
+          "file": "@Paranoid.bms"
+        },
+        {
+          "md5": "504356dfc48e8abf9b54a88b509b9999",
+          "info": {
+            "title": "ネイクド・ワイルド・パラノイド",
+            "artist": "kei_iwata + saaa",
+            "genre": "ニューエロティックムーディー",
+            "subtitles": [
+              "[SP ANOTHER]"
+            ],
+            "subartists": [
+              "BGA:内村徹"
+            ],
+            "difficulty": 4,
+            "level": 11
+          },
+          "noteCount": 1584,
+          "bpm": {
+            "init": 180,
+            "min": 180,
+            "median": 180,
+            "max": 180
+          },
+          "duration": 142.67366499052915,
+          "scratch": true,
+          "keys": "7K",
+          "file": "@SPA.bms"
+        },
+        {
+          "md5": "5da3018d94c69912d02d5326943af296",
+          "info": {
+            "title": "ネイクド・ワイルド・パラノイド",
+            "artist": "kei_iwata + saaa",
+            "genre": "ニューエロティックムーディー",
+            "subtitles": [
+              "[SP BEGINNER]"
+            ],
+            "subartists": [
+              "BGA:内村徹"
+            ],
+            "difficulty": 1,
+            "level": 3
+          },
+          "noteCount": 208,
+          "bpm": {
+            "init": 180,
+            "min": 180,
+            "median": 180,
+            "max": 180
+          },
+          "duration": 142.67366499052915,
+          "scratch": true,
+          "keys": "7K",
+          "file": "@SPB.bms"
+        },
+        {
+          "md5": "2faabba39629502c39567df611d0a318",
+          "info": {
+            "title": "ネイクド・ワイルド・パラノイド",
+            "artist": "kei_iwata + saaa",
+            "genre": "ニューエロティックムーディー",
+            "subtitles": [
+              "[SP HYPER]"
+            ],
+            "subartists": [
+              "BGA:内村徹"
+            ],
+            "difficulty": 3,
+            "level": 9
+          },
+          "noteCount": 887,
+          "bpm": {
+            "init": 180,
+            "min": 180,
+            "median": 180,
+            "max": 180
+          },
+          "duration": 142.67366499052915,
+          "scratch": true,
+          "keys": "7K",
+          "file": "@SPH.bms"
+        },
+        {
+          "md5": "fb7def20e0a22572f87f2c6690555e18",
+          "info": {
+            "title": "ネイクド・ワイルド・パラノイド",
+            "artist": "kei_iwata + saaa",
+            "genre": "ニューエロティックムーディー",
+            "subtitles": [
+              "[SP NORMAL]"
+            ],
+            "subartists": [
+              "BGA:内村徹"
+            ],
+            "difficulty": 2,
+            "level": 5
+          },
+          "noteCount": 561,
+          "bpm": {
+            "init": 180,
+            "min": 180,
+            "median": 180,
+            "max": 180
+          },
+          "duration": 142.67366499052915,
+          "scratch": true,
+          "keys": "7K",
+          "file": "@SPN.bms"
+        },
+        {
+          "md5": "0e0e1c6f0e2548216689ae6dbe67b7e7",
+          "info": {
+            "title": "ネイクド・ワイルド・パラノイド",
+            "artist": "kei_iwata + saaa",
+            "genre": "ニューエロティックムーディー",
+            "subtitles": [
+              "[夜王牙]"
+            ],
+            "subartists": [
+              "BGA:内村徹 / obj:saaa"
+            ],
+            "difficulty": 5,
+            "level": 14
+          },
+          "noteCount": 2212,
+          "bpm": {
+            "init": 180,
+            "min": 180,
+            "median": 180,
+            "max": 180
+          },
+          "duration": 142.67366499052915,
+          "scratch": true,
+          "keys": "7K",
+          "file": "@Yoruouga.bms"
+        }
+      ],
+      "title": "ネイクド・ワイルド・パラノイド",
+      "artist": "kei_iwata + saaa",
+      "genre": "ニューエロティックムーディー",
+      "bpm": 180,
+      "replaygain": "-11.43 dB",
+      "preview_offset": 87.666,
+      "preview_url": "bemuse-data/preview.mp3",
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=140",
+      "youtube_url": "https://www.youtube.com/watch?v=77qxX4XfR5Q",
+      "bmssearch_id": "h-O0MczzAMjH7m",
+      "artist_url": "soundcloud.com/saaa_1",
+      "readme": "README.md",
+      "video_url": "bemuse-data/bga.mp4",
+      "back_image_url": "bemuse-data/back_image.png",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+      "video_offset": 1.125,
+      "added": "2023-09-20T00:00:00.000Z",
+      "id": "uouo1",
+      "path": "https://bmsmaster.github.io/bemuse-alpha/uouo1/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "9540d49e83184e2d157c2e28ca317774",
+          "info": {
+            "title": "史上最大のQUESTION!",
+            "artist": "Arte Refact × Hakui Koyori remixed by BMS Chart Master",
+            "genre": "Alpha Remixes",
+            "subtitles": [],
+            "subartists": [],
+            "difficulty": 0,
+            "level": 10
+          },
+          "noteCount": 876,
+          "bpm": {
+            "init": 147,
+            "min": 147,
+            "median": 147,
+            "max": 147
+          },
+          "duration": 129.3877551020408,
+          "scratch": true,
+          "keys": "7K",
+          "file": "question.bmson"
+        }
+      ],
+      "title": "史上最大のQUESTION!",
+      "artist": "Arte Refact × Hakui Koyori remixed by BMS Chart Master",
+      "genre": "Alpha Remixes",
+      "bpm": 147,
+      "replaygain": "-12.17 dB",
+      "preview_offset": 41.632,
+      "preview_url": "bemuse-data/preview.mp3",
+      "readme": "README.md",
+      "back_image_url": "bemuse-data/back_image.jpg",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.jpg",
+      "song_url": "https://soundcloud.com/bms-chart-master/question-bemuse-alpha-remix",
+      "video_url": "bemuse-data/bga.mp4",
+      "video_offset": 1.428,
+      "added": "2023-09-20T00:00:00.000Z",
+      "id": "remix1",
+      "path": "https://bmsmaster.github.io/bemuse-alpha/remix1/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "38e7e0169e473063998ffa4d9742e629",
+          "info": {
+            "title": "DDD",
+            "artist": "はがね",
+            "genre": "Tech Fusion",
+            "subtitles": [],
+            "subartists": [],
+            "difficulty": 4,
+            "level": 12
+          },
+          "noteCount": 1399,
+          "bpm": {
+            "init": 138,
+            "min": 138,
+            "median": 138,
+            "max": 138
+          },
+          "duration": 100.81521739130436,
+          "scratch": true,
+          "keys": "7K",
+          "file": "SPA.bms"
+        },
+        {
+          "md5": "0a01e850e54a8af4723a8b8d4c114cad",
+          "info": {
+            "title": "DDD",
+            "artist": "はがね",
+            "genre": "Tech Fusion",
+            "subtitles": [],
+            "subartists": [],
+            "difficulty": 3,
+            "level": 10
+          },
+          "noteCount": 961,
+          "bpm": {
+            "init": 138,
+            "min": 138,
+            "median": 138,
+            "max": 138
+          },
+          "duration": 100.81521739130436,
+          "scratch": true,
+          "keys": "7K",
+          "file": "SPH.bms"
+        },
+        {
+          "md5": "678a55676a1469b5de1057b1de6ea1ca",
+          "info": {
+            "title": "DDD",
+            "artist": "はがね",
+            "genre": "Tech Fusion",
+            "subtitles": [],
+            "subartists": [],
+            "difficulty": 2,
+            "level": 7
+          },
+          "noteCount": 513,
+          "bpm": {
+            "init": 138,
+            "min": 138,
+            "median": 138,
+            "max": 138
+          },
+          "duration": 100.81521739130436,
+          "scratch": true,
+          "keys": "7K",
+          "file": "SPN.bms"
+        }
+      ],
+      "title": "DDD",
+      "artist": "はがね",
+      "genre": "Tech Fusion",
+      "bpm": 138,
+      "replaygain": "-7.85 dB",
+      "preview_offset": 29.565,
+      "preview_url": "bemuse-data/preview.mp3",
+      "song_url": "https://soundcloud.com/steelplus/ddd",
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=206&event=137",
+      "youtube_url": "https://www.youtube.com/watch?v=enFLi1toOvU",
+      "bmssearch_id": "Z1tDLIEVO9SYs1",
+      "readme": "README.md",
+      "back_image_url": "bemuse-data/back_image.png",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+      "added": "2023-09-20T00:00:00.000Z",
+      "id": "general1",
+      "path": "https://bmsmaster.github.io/bemuse-alpha/general1/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "112db3ac028acb7464609f9b309ecaf5",
+          "info": {
+            "title": "only my railgun",
+            "artist": "fripside",
+            "genre": "Ani song",
+            "subtitles": [],
+            "subartists": [],
+            "difficulty": 0,
+            "level": 8
+          },
+          "noteCount": 806,
+          "bpm": {
+            "init": 143,
+            "min": 143,
+            "median": 143,
+            "max": 143
+          },
+          "duration": 90.41958041958043,
+          "scratch": true,
+          "keys": "7K",
+          "file": "railgun7.bml"
+        },
+        {
+          "md5": "4780a27a7245dfb693c17a2d9e6cbe41",
+          "info": {
+            "title": "only my railgun",
+            "artist": "fripside",
+            "genre": "Ani song",
+            "subtitles": [],
+            "subartists": [
+              "obj: BMS Chart Master"
+            ],
+            "difficulty": 5,
+            "level": 11
+          },
+          "noteCount": 1048,
+          "bpm": {
+            "init": 143,
+            "min": 143,
+            "median": 143,
+            "max": 143
+          },
+          "duration": 90.41958041958043,
+          "scratch": true,
+          "keys": "7K",
+          "file": "railgun†.bml"
+        }
+      ],
+      "title": "only my railgun",
+      "artist": "fripside",
+      "genre": "Ani song",
+      "bpm": 143,
+      "replaygain": "-14.26 dB",
+      "preview_offset": 57.902,
+      "preview_url": "bemuse-data/preview.mp3",
+      "readme": "README.md",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.jpg",
+      "video_url": "bemuse-data/bga.mp4",
+      "video_offset": 3.356,
+      "added": "2023-09-20T00:00:00.000Z",
+      "id": "raligun",
+      "path": "https://bmsmaster.github.io/bemuse-alpha/MayBeRemovedIfRequested/raligun/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "499f4c75f89f403b68735a50e1c42e83",
+          "info": {
+            "title": "PUPA",
+            "artist": "モリモリあつし",
+            "genre": "HARD RENAISSANCE",
+            "subtitles": [
+              "[5K Aery Normal]"
+            ],
+            "subartists": [
+              "obj: ARAiN"
+            ],
+            "difficulty": 3,
+            "level": 16
+          },
+          "noteCount": 1621,
+          "bpm": {
+            "init": 202,
+            "min": 101,
+            "median": 202,
+            "max": 202
+          },
+          "duration": 123.26732673267327,
+          "scratch": false,
+          "keys": "5K",
+          "file": "PUPA[5KNM].bms"
+        },
+        {
+          "md5": "64033798a2eca907949a9d65b609eac9",
+          "info": {
+            "title": "PUPA",
+            "artist": "モリモリあつし / obj:みっと",
+            "genre": "HARD RENAISSANCE",
+            "subtitles": [
+              "Butterfly"
+            ],
+            "subartists": [],
+            "difficulty": 5,
+            "level": 17
+          },
+          "noteCount": 2412,
+          "bpm": {
+            "init": 202,
+            "min": 101,
+            "median": 202,
+            "max": 202
+          },
+          "duration": 123.26732673267327,
+          "scratch": true,
+          "keys": "7K",
+          "file": "PUPA[Butterfly]_Mitto.bme"
+        },
+        {
+          "md5": "284fd8fdf21f963359aca222b9872c92",
+          "info": {
+            "title": "PUPA",
+            "artist": "モリモリあつし",
+            "genre": "HARD RENAISSANCE",
+            "subtitles": [
+              "[LAPITHER]"
+            ],
+            "subartists": [
+              "bga.HALLPBE.S / obj.LAPIS vs sne"
+            ],
+            "difficulty": 5,
+            "level": 8
+          },
+          "noteCount": 2054,
+          "bpm": {
+            "init": 202,
+            "min": 101,
+            "median": 202,
+            "max": 202
+          },
+          "duration": 123.26732673267327,
+          "scratch": true,
+          "keys": "7K",
+          "file": "PUPA[LAPITHER]_bgafix.bml"
+        },
+        {
+          "md5": "e4d3caa4814e28a13d15291cf8b275ab",
+          "info": {
+            "title": "PUPA",
+            "artist": "モリモリあつし obj.m",
+            "genre": "HARD RENAISSANCE",
+            "subtitles": [
+              "LUNATIC"
+            ],
+            "subartists": [],
+            "difficulty": 5,
+            "level": 15
+          },
+          "noteCount": 3000,
+          "bpm": {
+            "init": 202,
+            "min": 101,
+            "median": 202,
+            "max": 202
+          },
+          "duration": 123.26732673267327,
+          "scratch": true,
+          "keys": "7K",
+          "file": "PUPA[LUNATIC].bml"
+        },
+        {
+          "md5": "61c41e8aabc8553e669bd2b3fa9b84ca",
+          "info": {
+            "title": "PUPA",
+            "artist": "モリモリあつし obj.m",
+            "genre": "HARD RENAISSANCE",
+            "subtitles": [
+              "metamorphosis"
+            ],
+            "subartists": [],
+            "difficulty": 5,
+            "level": 7
+          },
+          "noteCount": 2345,
+          "bpm": {
+            "init": 202,
+            "min": 101,
+            "median": 202,
+            "max": 202
+          },
+          "duration": 123.26732673267327,
+          "scratch": true,
+          "keys": "7K",
+          "file": "PUPA[metamorphosis].bml"
+        },
+        {
+          "md5": "b13005bcdb8522379c5ca7a96d41d3d6",
+          "info": {
+            "title": "PUPA",
+            "artist": "モリモリあつし / bga.HALLPBE.S / obj morio",
+            "genre": "HARD RENAISSANCE",
+            "subtitles": [
+              "morither"
+            ],
+            "subartists": [],
+            "difficulty": 5,
+            "level": 15
+          },
+          "noteCount": 2174,
+          "bpm": {
+            "init": 202,
+            "min": 101,
+            "median": 202,
+            "max": 202
+          },
+          "duration": 123.26732673267327,
+          "scratch": true,
+          "keys": "7K",
+          "file": "PUPA[Mo].bml"
+        },
+        {
+          "md5": "76d033c2c5dd5799fc183b569aa57bd7",
+          "info": {
+            "title": "PUPA",
+            "artist": "モリモリあつし / 奈那樹",
+            "genre": "HARD RENAISSANCE",
+            "subtitles": [
+              "NB"
+            ],
+            "subartists": [],
+            "difficulty": 5,
+            "level": 25
+          },
+          "noteCount": 2234,
+          "bpm": {
+            "init": 202,
+            "min": 101,
+            "median": 202,
+            "max": 202
+          },
+          "duration": 123.26732673267327,
+          "scratch": true,
+          "keys": "7K",
+          "file": "PUPA[NB].bml"
+        },
+        {
+          "md5": "f963a340f1ce09bfc4dff68712e4ecdf",
+          "info": {
+            "title": "PUPA",
+            "artist": "モリモリあつし",
+            "genre": "HARD RENAISSANCE",
+            "subtitles": [],
+            "subartists": [],
+            "difficulty": 4,
+            "level": 12
+          },
+          "noteCount": 1628,
+          "bpm": {
+            "init": 202,
+            "min": 101,
+            "median": 202,
+            "max": 202
+          },
+          "duration": 123.26732673267327,
+          "scratch": true,
+          "keys": "7K",
+          "file": "PUPA[SPA].bml"
+        },
+        {
+          "md5": "a58926bb25c5e5faee86316d7678d8ce",
+          "info": {
+            "title": "PUPA",
+            "artist": "モリモリあつし",
+            "genre": "HARD RENAISSANCE",
+            "subtitles": [
+              "SARA"
+            ],
+            "subartists": [
+              "obj:十六皿夜"
+            ],
+            "difficulty": 4,
+            "level": 12
+          },
+          "noteCount": 1814,
+          "bpm": {
+            "init": 202,
+            "min": 101,
+            "median": 202,
+            "max": 202
+          },
+          "duration": 125.64356435643563,
+          "scratch": true,
+          "keys": "7K",
+          "file": "PUPA[SPA]_BGA_izayoi_yoisarather.bml"
+        },
+        {
+          "md5": "e3ee2fff29eeaadc4ce6bea8a2b743f2",
+          "info": {
+            "title": "PUPA",
+            "artist": "モリモリあつし",
+            "genre": "HARD RENAISSANCE",
+            "subtitles": [],
+            "subartists": [
+              "obj:Takeshita"
+            ],
+            "difficulty": 1,
+            "level": 5
+          },
+          "noteCount": 444,
+          "bpm": {
+            "init": 202,
+            "min": 101,
+            "median": 202,
+            "max": 202
+          },
+          "duration": 123.26732673267327,
+          "scratch": true,
+          "keys": "7K",
+          "file": "PUPA[SPB].bme"
+        },
+        {
+          "md5": "20a354a7af4e6ce78ce0309024334d16",
+          "info": {
+            "title": "PUPA",
+            "artist": "モリモリあつし / obj : LindBlum",
+            "genre": "HARD RENAISSANCE",
+            "subtitles": [
+              "Destiny"
+            ],
+            "subartists": [],
+            "difficulty": 5,
+            "level": 25
+          },
+          "noteCount": 3490,
+          "bpm": {
+            "init": 202,
+            "min": 101,
+            "median": 202,
+            "max": 202
+          },
+          "duration": 123.26732673267327,
+          "scratch": true,
+          "keys": "7K",
+          "file": "PUPA[SPDestiny].bml"
+        },
+        {
+          "md5": "b64c19e54a01b504394cbfcfad998e12",
+          "info": {
+            "title": "PUPA",
+            "artist": "モリモリあつし / Ds",
+            "genre": "HARD RENAISSANCE",
+            "subtitles": [],
+            "subartists": [],
+            "difficulty": 4,
+            "level": 13
+          },
+          "noteCount": 3126,
+          "bpm": {
+            "init": 202,
+            "min": 101,
+            "median": 202,
+            "max": 202
+          },
+          "duration": 123.26732673267327,
+          "scratch": true,
+          "keys": "7K",
+          "file": "PUPA[SPDX].bme"
+        },
+        {
+          "md5": "6d969895ee55e7cf457fb0be59b8122d",
+          "info": {
+            "title": "PUPA",
+            "artist": "モリモリあつし",
+            "genre": "HARD RENAISSANCE",
+            "subtitles": [],
+            "subartists": [],
+            "difficulty": 4,
+            "level": 12
+          },
+          "noteCount": 2500,
+          "bpm": {
+            "init": 202,
+            "min": 101,
+            "median": 202,
+            "max": 202
+          },
+          "duration": 123.26732673267327,
+          "scratch": true,
+          "keys": "7K",
+          "file": "PUPA[SPE].bms"
+        },
+        {
+          "md5": "05fef74e224ca5fef6d69719fa4a6a87",
+          "info": {
+            "title": "PUPA",
+            "artist": "モリモリあつし",
+            "genre": "HARD RENAISSANCE",
+            "subtitles": [],
+            "subartists": [
+              "obj:Takeshita"
+            ],
+            "difficulty": 3,
+            "level": 11
+          },
+          "noteCount": 1312,
+          "bpm": {
+            "init": 202,
+            "min": 101,
+            "median": 202,
+            "max": 202
+          },
+          "duration": 123.26732673267327,
+          "scratch": true,
+          "keys": "7K",
+          "file": "PUPA[SPH].bml"
+        },
+        {
+          "md5": "15ee7bfa6c9ae2da4d0c5c1156dc3a7c",
+          "info": {
+            "title": "PUPA",
+            "artist": "モリモリあつし",
+            "genre": "HARD RENAISSANCE",
+            "subtitles": [],
+            "subartists": [
+              "obj:Takeshita"
+            ],
+            "difficulty": 2,
+            "level": 9
+          },
+          "noteCount": 734,
+          "bpm": {
+            "init": 202,
+            "min": 101,
+            "median": 202,
+            "max": 202
+          },
+          "duration": 123.26732673267327,
+          "scratch": true,
+          "keys": "7K",
+          "file": "PUPA[SPN].bml"
+        },
+        {
+          "md5": "f91dff0e74bccc850e37a811391538ed",
+          "info": {
+            "title": "PUPA",
+            "artist": "モリモリあつし",
+            "genre": "HARD RENAISSANCE",
+            "subtitles": [
+              "XERTHER"
+            ],
+            "subartists": [
+              "obj:xert*"
+            ],
+            "difficulty": 5,
+            "level": 15
+          },
+          "noteCount": 2160,
+          "bpm": {
+            "init": 202,
+            "min": 101,
+            "median": 202,
+            "max": 202
+          },
+          "duration": 123.26732673267327,
+          "scratch": true,
+          "keys": "7K",
+          "file": "PUPA[XERTHER].bml"
+        },
+        {
+          "md5": "fdbb5b8a4fe3cda08d28800a7120d762",
+          "info": {
+            "title": "PUPA",
+            "artist": "モリモリあつし",
+            "genre": "HARD RENAISSANCE",
+            "subtitles": [
+              "前立腺"
+            ],
+            "subartists": [
+              "obj:Maco-J"
+            ],
+            "difficulty": 5,
+            "level": 13
+          },
+          "noteCount": 2074,
+          "bpm": {
+            "init": 202,
+            "min": 101,
+            "median": 202,
+            "max": 202
+          },
+          "duration": 123.26732673267327,
+          "scratch": true,
+          "keys": "7K",
+          "file": "PUPA[ZRS].bme"
+        },
+        {
+          "md5": "309308bdef9833a60f09989e26994fd0",
+          "info": {
+            "title": "PUPA",
+            "artist": "モリモリあつし / obj:Monsta",
+            "genre": "HARD RENAISSANCE",
+            "subtitles": [],
+            "subartists": [],
+            "difficulty": 5,
+            "level": 26
+          },
+          "noteCount": 3639,
+          "bpm": {
+            "init": 202,
+            "min": 101,
+            "median": 202,
+            "max": 202
+          },
+          "duration": 123.26732673267327,
+          "scratch": true,
+          "keys": "7K",
+          "file": "PUPA_mo.bml"
+        },
+        {
+          "md5": "257551dc9c39824510800ed4b5d70174",
+          "info": {
+            "title": "PUPA",
+            "artist": "モリモリあつし",
+            "genre": "HARD RENAISSANCE",
+            "subtitles": [
+              "-EVOLUTION-"
+            ],
+            "subartists": [
+              "obj*たけお"
+            ],
+            "difficulty": 4,
+            "level": 12
+          },
+          "noteCount": 2234,
+          "bpm": {
+            "init": 202,
+            "min": 202,
+            "median": 202,
+            "max": 202
+          },
+          "duration": 123.26732673267327,
+          "scratch": true,
+          "keys": "7K",
+          "file": "PUPA_REMAINER.bml"
+        },
+        {
+          "md5": "7a534c3a0a605063e8ef53b8d76dfc34",
+          "info": {
+            "title": "PUPA",
+            "artist": "モリモリあつし",
+            "genre": "HARD RENAISSANCE",
+            "subtitles": [
+              "morimori"
+            ],
+            "subartists": [
+              "bga.HALLPBE.S / obj:vy"
+            ],
+            "difficulty": 5,
+            "level": 20
+          },
+          "noteCount": 2570,
+          "bpm": {
+            "init": 202,
+            "min": 101,
+            "median": 202,
+            "max": 202
+          },
+          "duration": 123.26732673267327,
+          "scratch": true,
+          "keys": "7K",
+          "file": "PUPA_tokumori.bml"
+        }
+      ],
+      "title": "PUPA",
+      "artist": "モリモリあつし",
+      "genre": "HARD RENAISSANCE",
+      "bpm": 202,
+      "replaygain": "-6.48 dB",
+      "preview_offset": 85.544,
+      "preview_url": "bemuse-data/preview.mp3",
+      "song_url": "https://soundcloud.com/ats024/g2rpupabms",
+      "bms_url": "https://bms.cosmiccat.top/bms/BMS/Satellite%2B%E9%80%9A%E5%B8%B8%E9%9A%BE%E6%98%93%E5%BA%A6%2B%E5%8F%91%E7%8B%82%E9%9A%BE%E6%98%93%E5%BA%A6%2022.1.9/%E5%8D%95%E6%9B%B2%2022.1.9/",
+      "youtube_url": "https://www.youtube.com/watch?v=LFcKV42U3wA",
+      "bmssearch_id": "nZFSrZP2txhWnk",
+      "artist_url": "https://soundcloud.com/ats024",
+      "readme": "README.md",
+      "back_image_url": "bemuse-data/back_image.jpg",
+      "video_url": "bemuse-data/bga.mp4",
+      "video_offset": 0.297,
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.jpg",
+      "added": "2023-09-22T00:00:00.000Z",
+      "id": "general2",
+      "path": "https://bmsmaster.github.io/bemuse-alpha/general2/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "4023045d9134dfc47e953bc430e5ef07",
+          "info": {
+            "title": "Life is PIANO",
+            "artist": "Junk",
+            "genre": "Maiden House",
+            "subtitles": [
+              "Another"
+            ],
+            "subartists": [
+              "obj:kneas"
+            ],
+            "difficulty": 4,
+            "level": 11
+          },
+          "noteCount": 1565,
+          "bpm": {
+            "init": 133,
+            "min": 66.5,
+            "median": 133,
+            "max": 133
+          },
+          "duration": 124.51127819548873,
+          "scratch": true,
+          "keys": "7K",
+          "file": "another.bme"
+        },
+        {
+          "md5": "6668318ca133026e41eb41f9a6992a7d",
+          "info": {
+            "title": "Life is PIANO",
+            "artist": "Junk",
+            "genre": "Maiden House",
+            "subtitles": [
+              "HYPER"
+            ],
+            "subartists": [],
+            "difficulty": 0,
+            "level": 9
+          },
+          "noteCount": 948,
+          "bpm": {
+            "init": 133,
+            "min": 66.5,
+            "median": 133,
+            "max": 133
+          },
+          "duration": 124.51127819548873,
+          "scratch": true,
+          "keys": "7K",
+          "file": "hyper.bme"
+        },
+        {
+          "md5": "fe100f7877adee1ef88de03e0ed7a6a0",
+          "info": {
+            "title": "Life is PIANO",
+            "artist": "Junk",
+            "genre": "Maiden House",
+            "subtitles": [
+              "[Wander]"
+            ],
+            "subartists": [
+              "obj.쁪"
+            ],
+            "difficulty": 5,
+            "level": 22
+          },
+          "noteCount": 2985,
+          "bpm": {
+            "init": 133,
+            "min": 133,
+            "median": 133,
+            "max": 133
+          },
+          "duration": 124.51127819548873,
+          "scratch": true,
+          "keys": "7K",
+          "file": "lifeispiano_w1.bms"
+        },
+        {
+          "md5": "2650948d745fe2cbb990bd73824e6811",
+          "info": {
+            "title": "Life is PIANO",
+            "artist": "Junk",
+            "genre": "Maiden House",
+            "subtitles": [
+              "[Wander+]"
+            ],
+            "subartists": [
+              "obj.쁪"
+            ],
+            "difficulty": 5,
+            "level": 24
+          },
+          "noteCount": 3333,
+          "bpm": {
+            "init": 133,
+            "min": 133,
+            "median": 133,
+            "max": 133
+          },
+          "duration": 124.51127819548873,
+          "scratch": true,
+          "keys": "7K",
+          "file": "lifeispiano_w2.bms"
+        },
+        {
+          "md5": "d0c6b296a1a69e937e33fad0134f46cc",
+          "info": {
+            "title": "Life is PIANO",
+            "artist": "Junk",
+            "genre": "Maiden House",
+            "subtitles": [
+              "Normal"
+            ],
+            "subartists": [],
+            "difficulty": 0,
+            "level": 7
+          },
+          "noteCount": 478,
+          "bpm": {
+            "init": 133,
+            "min": 66.5,
+            "median": 133,
+            "max": 133
+          },
+          "duration": 124.51127819548873,
+          "scratch": true,
+          "keys": "7K",
+          "file": "normal.bme"
+        },
+        {
+          "md5": "fe665a21756a40f52cc1cbddaf291149",
+          "info": {
+            "title": "Life is PIANO",
+            "artist": "Junk",
+            "genre": "Maiden House",
+            "subtitles": [
+              "[Power is POWER]"
+            ],
+            "subartists": [
+              "obj.meta"
+            ],
+            "difficulty": 5,
+            "level": 18
+          },
+          "noteCount": 2400,
+          "bpm": {
+            "init": 133,
+            "min": 66.5,
+            "median": 133,
+            "max": 133
+          },
+          "duration": 124.51127819548873,
+          "scratch": true,
+          "keys": "7K",
+          "file": "power.bme"
+        },
+        {
+          "md5": "3171716540fd91660c35d4323a7edd99",
+          "info": {
+            "title": "Life is PIANO",
+            "artist": "Junk",
+            "genre": "Maiden House",
+            "subtitles": [
+              "Rea'ju"
+            ],
+            "subartists": [
+              "obj:kneas"
+            ],
+            "difficulty": 5,
+            "level": 15
+          },
+          "noteCount": 2104,
+          "bpm": {
+            "init": 133,
+            "min": 66.5,
+            "median": 133,
+            "max": 133
+          },
+          "duration": 124.51127819548873,
+          "scratch": true,
+          "keys": "7K",
+          "file": "reaju.bme"
+        }
+      ],
+      "title": "Life is PIANO",
+      "artist": "Junk",
+      "genre": "Maiden House",
+      "bpm": 133,
+      "replaygain": "-12.84 dB",
+      "preview_offset": 65.864,
+      "preview_url": "bemuse-data/preview.mp3",
+      "song_url": "https://soundcloud.com/junktrance518/g2r2018life-is-piano",
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=375&event=123",
+      "youtube_url": "https://www.youtube.com/watch?v=uf9vXkvjRro",
+      "long_url": "https://gdbg.tv/release/2018-8-5",
+      "bmssearch_id": "2cq14dSck89hkw",
+      "artist_url": "https://soundcloud.com/junktrance518",
+      "readme": "README.md",
+      "added": "2023-09-22T00:00:00.000Z",
+      "id": "general3",
+      "path": "https://bmsmaster.github.io/bemuse-alpha/general3/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "01d38f0878f6366caf77a7c9857a00f0",
+          "info": {
+            "title": "Detective mind",
+            "artist": "Velpion",
+            "genre": "Trancecore",
+            "subtitles": [
+              "Another"
+            ],
+            "subartists": [],
+            "difficulty": 0,
+            "level": 12
+          },
+          "noteCount": 1580,
+          "bpm": {
+            "init": 175,
+            "min": 175,
+            "median": 175,
+            "max": 175
+          },
+          "duration": 100.11428571428571,
+          "scratch": true,
+          "keys": "7K",
+          "file": "Detective mind[A].bmson"
+        },
+        {
+          "md5": "ca78ec37c6985caf1903a5768073ea7c",
+          "info": {
+            "title": "Detective mind",
+            "artist": "Velpion",
+            "genre": "Trancecore",
+            "subtitles": [
+              "Hyper"
+            ],
+            "subartists": [],
+            "difficulty": 0,
+            "level": 10
+          },
+          "noteCount": 985,
+          "bpm": {
+            "init": 175,
+            "min": 175,
+            "median": 175,
+            "max": 175
+          },
+          "duration": 100.11428571428571,
+          "scratch": true,
+          "keys": "7K",
+          "file": "Detective mind[H].bmson"
+        },
+        {
+          "md5": "e5e688af77a49361ea9f7b0afe9a3dad",
+          "info": {
+            "title": "Detective mind",
+            "artist": "Velpion",
+            "genre": "Trancecore",
+            "subtitles": [
+              "Normal"
+            ],
+            "subartists": [],
+            "difficulty": 0,
+            "level": 7
+          },
+          "noteCount": 816,
+          "bpm": {
+            "init": 175,
+            "min": 175,
+            "median": 175,
+            "max": 175
+          },
+          "duration": 100.11428571428571,
+          "scratch": true,
+          "keys": "7K",
+          "file": "Detective mind[N].bmson"
+        }
+      ],
+      "title": "Detective mind",
+      "artist": "Velpion",
+      "genre": "Trancecore",
+      "bpm": 175,
+      "replaygain": "-8.31 dB",
+      "preview_offset": 54.171,
+      "preview_url": "bemuse-data/preview.mp3",
+      "bms_url": "4YMLpV-bmYS25w",
+      "readme": "README.md",
+      "added": "2023-09-22T00:00:00.000Z",
+      "id": "velpoin1",
+      "path": "https://bmsmaster.github.io/bemuse-alpha/velpoin1/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "1f7af013d318c392a228f518ae292bb5",
+          "info": {
+            "title": "Vista",
+            "artist": "Aliesrite* (Ym1024 feat. lamie*)",
+            "genre": "90's Digital J-Rock",
+            "subtitles": [
+              "7key Normal"
+            ],
+            "subartists": [
+              "Movie : Landscaper, retu"
+            ],
+            "difficulty": 2,
+            "level": 4
+          },
+          "noteCount": 403,
+          "bpm": {
+            "init": 132,
+            "min": 132,
+            "median": 132,
+            "max": 132
+          },
+          "duration": 114.43181818181817,
+          "scratch": true,
+          "keys": "7K",
+          "file": "Vista_[7-4_Normal].bme"
+        },
+        {
+          "md5": "b296e2261be516dc056393e764eddde1",
+          "info": {
+            "title": "Vista",
+            "artist": "Aliesrite* (Ym1024 feat. lamie*)",
+            "genre": "90's Digital J-Rock",
+            "subtitles": [
+              "7key Hyper"
+            ],
+            "subartists": [
+              "Movie : Landscaper, retu"
+            ],
+            "difficulty": 3,
+            "level": 8
+          },
+          "noteCount": 812,
+          "bpm": {
+            "init": 132,
+            "min": 132,
+            "median": 132,
+            "max": 132
+          },
+          "duration": 114.43181818181817,
+          "scratch": true,
+          "keys": "7K",
+          "file": "Vista_[7-8_Hyper].bme"
+        },
+        {
+          "md5": "21e67f058b672b53b3a7eecff521e546",
+          "info": {
+            "title": "Vista",
+            "artist": "Aliesrite* (Ym1024 feat. lamie*)",
+            "genre": "90's Digital J-Rock",
+            "subtitles": [
+              "7key Another"
+            ],
+            "subartists": [
+              "Movie : Landscaper, retu"
+            ],
+            "difficulty": 4,
+            "level": 10
+          },
+          "noteCount": 1128,
+          "bpm": {
+            "init": 132,
+            "min": 132,
+            "median": 132,
+            "max": 132
+          },
+          "duration": 114.43181818181817,
+          "scratch": true,
+          "keys": "7K",
+          "file": "Vista_[7-A_Another].bme"
+        },
+        {
+          "md5": "3a8800990f6d97ee0f0367b255def75a",
+          "info": {
+            "title": "Vista",
+            "artist": "Aliesrite* (Ym1024 feat. lamie*)",
+            "genre": "90's Digital J-Rock",
+            "subtitles": [
+              "7key Insane"
+            ],
+            "subartists": [
+              "Movie : Landscaper, retu / obj: BMS Chart Master"
+            ],
+            "difficulty": 5,
+            "level": 12
+          },
+          "noteCount": 1387,
+          "bpm": {
+            "init": 132,
+            "min": 132,
+            "median": 132,
+            "max": 132
+          },
+          "duration": 114.43181818181817,
+          "scratch": true,
+          "keys": "7K",
+          "file": "Vista_[7-E_Insane].bme"
+        }
+      ],
+      "title": "Vista",
+      "artist": "Aliesrite* (Ym1024 feat. lamie*)",
+      "genre": "90's Digital J-Rock",
+      "bpm": 132,
+      "replaygain": "-10.41 dB",
+      "preview_offset": 62.272,
+      "preview_url": "bemuse-data/preview.mp3",
+      "youtube_url": "https://www.youtube.com/watch?v=FbDwRMaUwBU",
+      "readme": "README.md",
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=476&event=140",
+      "bmssearch_id": "VRKw950stM4rhc",
+      "artist_url": "https://aliesrite.com/",
+      "back_image_url": "bemuse-data/back_image.png",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+      "video_url": "bemuse-data/bga.mp4",
+      "added": "2023-09-22T00:00:00.000Z",
+      "id": "ym1",
+      "path": "https://bmsmaster.github.io/bemuse-alpha/ym1/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "29e6dc98d04c3d0f88d6141e32f0cca0",
+          "info": {
+            "title": "dilaton",
+            "artist": "TaW",
+            "genre": "TECH DANCE",
+            "subtitles": [
+              "[NORMAL]"
+            ],
+            "subartists": [],
+            "difficulty": 2,
+            "level": 4
+          },
+          "noteCount": 389,
+          "bpm": {
+            "init": 140,
+            "min": 140,
+            "median": 140,
+            "max": 140
+          },
+          "duration": 124.92857142857142,
+          "scratch": true,
+          "keys": "7K",
+          "file": "02_normal.bms"
+        },
+        {
+          "md5": "bd962ae051538ac36368b0e02ccf4230",
+          "info": {
+            "title": "dilaton",
+            "artist": "TaW",
+            "genre": "TECH DANCE",
+            "subtitles": [
+              "[HYPER]"
+            ],
+            "subartists": [],
+            "difficulty": 3,
+            "level": 8
+          },
+          "noteCount": 710,
+          "bpm": {
+            "init": 140,
+            "min": 140,
+            "median": 140,
+            "max": 140
+          },
+          "duration": 124.92857142857142,
+          "scratch": true,
+          "keys": "7K",
+          "file": "03_hyper.bms"
+        },
+        {
+          "md5": "141bd0cf10a55841b31cc8bd92e8e838",
+          "info": {
+            "title": "dilaton",
+            "artist": "TaW",
+            "genre": "TECH DANCE",
+            "subtitles": [
+              "[ANOTHER]"
+            ],
+            "subartists": [],
+            "difficulty": 4,
+            "level": 10
+          },
+          "noteCount": 1237,
+          "bpm": {
+            "init": 140,
+            "min": 140,
+            "median": 140,
+            "max": 140
+          },
+          "duration": 124.92857142857142,
+          "scratch": true,
+          "keys": "7K",
+          "file": "04_another.bms"
+        },
+        {
+          "md5": "5475523fe4a485a3b89ccd02fb734c20",
+          "info": {
+            "title": "dilaton",
+            "artist": "TaW",
+            "genre": "TECH DANCE",
+            "subtitles": [
+              "[INSANE]"
+            ],
+            "subartists": [],
+            "difficulty": 5,
+            "level": 12
+          },
+          "noteCount": 1617,
+          "bpm": {
+            "init": 140,
+            "min": 140,
+            "median": 140,
+            "max": 140
+          },
+          "duration": 124.92857142857142,
+          "scratch": true,
+          "keys": "7K",
+          "file": "05_insane.bms"
+        }
+      ],
+      "title": "dilaton",
+      "artist": "TaW",
+      "genre": "TECH DANCE",
+      "bpm": 140,
+      "replaygain": "-8.13 dB",
+      "back_image_url": "bemuse-data/back_image.png",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+      "video_url": "bemuse-data/bga.mp4",
+      "video_offset": 1.714,
+      "preview_offset": 69.857,
+      "preview_url": "bemuse-data/preview.mp3",
+      "bms_url": "https://pupuly.nekokan.dyndns.info/bms/v/253",
+      "bmssearch_id": "uYpWKOaL9TKuFF",
+      "artist_url": "https://tawminus50.wixsite.com/cite",
+      "readme": "README.md",
+      "added": "2023-09-22T00:00:00.000Z",
+      "id": "general4",
+      "path": "https://bmsmaster.github.io/bemuse-alpha/general4/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "7ac9c0f4d59f7adafef0090091625aa4",
+          "info": {
+            "title": "Only Love (Bemuse Alpha Edit)",
+            "artist": "Shannon Hurley",
+            "genre": "Pop",
+            "subtitles": [
+              "Another"
+            ],
+            "subartists": [],
+            "difficulty": 0,
+            "level": 7
+          },
+          "noteCount": 478,
+          "bpm": {
+            "init": 125,
+            "min": 125,
+            "median": 125,
+            "max": 125
+          },
+          "duration": 132.48,
+          "scratch": true,
+          "keys": "7K",
+          "file": "another.bmson"
+        },
+        {
+          "md5": "7f4f3959ab30381aea8d468ef88be2ee",
+          "info": {
+            "title": "Only Love (Bemuse Alpha Edit)",
+            "artist": "Shannon Hurley",
+            "genre": "Pop",
+            "subtitles": [
+              "Beginner"
+            ],
+            "subartists": [],
+            "difficulty": 0,
+            "level": 1
+          },
+          "noteCount": 48,
+          "bpm": {
+            "init": 125,
+            "min": 125,
+            "median": 125,
+            "max": 125
+          },
+          "duration": 132.48,
+          "scratch": true,
+          "keys": "7K",
+          "file": "beginner.bmson"
+        },
+        {
+          "md5": "26c7b8b7a707a51f56cfdb3e67c02d45",
+          "info": {
+            "title": "Only Love (Bemuse Alpha Edit)",
+            "artist": "Shannon Hurley",
+            "genre": "Pop",
+            "subtitles": [
+              "Hyper"
+            ],
+            "subartists": [],
+            "difficulty": 0,
+            "level": 6
+          },
+          "noteCount": 273,
+          "bpm": {
+            "init": 125,
+            "min": 125,
+            "median": 125,
+            "max": 125
+          },
+          "duration": 132.48,
+          "scratch": true,
+          "keys": "7K",
+          "file": "hyper.bmson"
+        },
+        {
+          "md5": "9a3cf23b754fc6521303c04e1271572f",
+          "info": {
+            "title": "Only Love (Bemuse Alpha Edit)",
+            "artist": "Shannon Hurley",
+            "genre": "Pop",
+            "subtitles": [
+              "Normal"
+            ],
+            "subartists": [],
+            "difficulty": 0,
+            "level": 4
+          },
+          "noteCount": 160,
+          "bpm": {
+            "init": 125,
+            "min": 125,
+            "median": 125,
+            "max": 125
+          },
+          "duration": 132.48,
+          "scratch": true,
+          "keys": "7K",
+          "file": "normal.bmson"
+        }
+      ],
+      "title": "Only Love (Bemuse Alpha Edit)",
+      "artist": "Shannon Hurley",
+      "genre": "Pop",
+      "bpm": 125,
+      "replaygain": "-2.57 dB",
+      "preview_offset": 62.88,
+      "preview_url": "bemuse-data/preview.mp3",
+      "long_url": "https://soundcloud.com/shannonhurley/only-love-1",
+      "artist_url": "https://soundcloud.com/shannonhurley",
+      "readme": "README.md",
+      "added": "2023-09-22T00:00:00.000Z",
+      "id": "onlylove",
+      "path": "https://bmsmaster.github.io/bemuse-alpha/MayBeRemovedIfRequested/onlylove/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "05a378356eb086210321416163892670",
+          "info": {
+            "title": "Tutorial",
+            "artist": "BMS Chart Master Guided by Watson Amelia",
+            "genre": "How to Play",
+            "subtitles": [],
+            "subartists": [],
+            "difficulty": 0,
+            "level": 0
+          },
+          "noteCount": 28,
+          "bpm": {
+            "init": 120,
+            "min": 120,
+            "median": 120,
+            "max": 120
+          },
+          "duration": 98,
+          "scratch": true,
+          "keys": "7K",
+          "file": "tutorial.bmson"
+        }
+      ],
+      "title": "Tutorial",
+      "artist": "BMS Chart Master Guided by Watson Amelia",
+      "genre": "How to Play",
+      "bpm": 120,
+      "replaygain": "-5.24 dB",
+      "preview_offset": 0,
+      "preview_url": "bemuse-data/preview.mp3",
+      "readme": "README.md",
+      "back_image_url": "bemuse-data/back_image.jpg",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.jpg",
+      "added": "2023-09-23T00:00:00.000Z",
+      "id": "tutorial",
+      "path": "https://bmsmaster.github.io/bemuse-alpha/tutorial/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "fbfd4a93aa3e91e758d6a767bfc1e782",
+          "info": {
+            "title": "Re:End of a Dream",
+            "artist": "uma vs. モリモリあつし",
+            "genre": "Hard Renaissance",
+            "subtitles": [],
+            "subartists": [],
+            "difficulty": 4,
+            "level": 12
+          },
+          "noteCount": 2290,
+          "bpm": {
+            "init": 212,
+            "min": 212,
+            "median": 212,
+            "max": 212
+          },
+          "duration": 140.5188679245283,
+          "scratch": true,
+          "keys": "7K",
+          "file": "7A.bms"
+        },
+        {
+          "md5": "9bd9b037433df8303d7fb3c4050c04dd",
+          "info": {
+            "title": "Re:End of a Dream",
+            "artist": "uma vs. モリモリあつし",
+            "genre": "Hard Renaissance",
+            "subtitles": [],
+            "subartists": [],
+            "difficulty": 1,
+            "level": 5
+          },
+          "noteCount": 472,
+          "bpm": {
+            "init": 212,
+            "min": 212,
+            "median": 212,
+            "max": 212
+          },
+          "duration": 140.5188679245283,
+          "scratch": true,
+          "keys": "7K",
+          "file": "7B.bms"
+        },
+        {
+          "md5": "8b02205f82ec29a0cdb97af2d84ce7d9",
+          "info": {
+            "title": "Re:End of a Dream",
+            "artist": "uma vs. モリモリあつし",
+            "genre": "Hard Renaissance",
+            "subtitles": [],
+            "subartists": [],
+            "difficulty": 3,
+            "level": 11
+          },
+          "noteCount": 1560,
+          "bpm": {
+            "init": 212,
+            "min": 212,
+            "median": 212,
+            "max": 212
+          },
+          "duration": 140.5188679245283,
+          "scratch": true,
+          "keys": "7K",
+          "file": "7H.bms"
+        },
+        {
+          "md5": "542948c468a23d19236e9df55839abca",
+          "info": {
+            "title": "Re:End of a Dream",
+            "artist": "uma vs. モリモリあつし",
+            "genre": "Hard Renaissance",
+            "subtitles": [],
+            "subartists": [],
+            "difficulty": 2,
+            "level": 8
+          },
+          "noteCount": 826,
+          "bpm": {
+            "init": 212,
+            "min": 212,
+            "median": 212,
+            "max": 212
+          },
+          "duration": 140.5188679245283,
+          "scratch": true,
+          "keys": "7K",
+          "file": "7N.bms"
+        }
+      ],
+      "title": "Re:End of a Dream",
+      "artist": "uma vs. モリモリあつし",
+      "genre": "Hard Renaissance",
+      "bpm": 212,
+      "replaygain": "-11 dB",
+      "preview_offset": 63.962,
+      "preview_url": "bemuse-data/preview.mp3",
+      "song_url": "https://soundcloud.com/ats024/bofu2016-re-end-of-a-dream",
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=543&event=110",
+      "readme": "README.md",
+      "added": "2023-09-24T00:00:00.000Z",
+      "id": "general5",
+      "path": "https://bmsmaster.github.io/bemuse-alpha/general5/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "99096b85a0a1386d85758bf9946b7a6f",
+          "info": {
+            "title": "SERIOUS ERROR",
+            "artist": "Laur",
+            "genre": "FRENCHCORE",
+            "subtitles": [
+              "ANOTHER"
+            ],
+            "subartists": [],
+            "difficulty": 4,
+            "level": 11
+          },
+          "noteCount": 1375,
+          "bpm": {
+            "init": 240,
+            "min": 240,
+            "median": 240,
+            "max": 240
+          },
+          "duration": 129,
+          "scratch": true,
+          "keys": "7K",
+          "file": "ANOTHER.bms"
+        },
+        {
+          "md5": "2d94cfc14f3643b8fe4ad8986650a897",
+          "info": {
+            "title": "SERIOUS ERROR",
+            "artist": "Laur",
+            "genre": "FRENCHCORE",
+            "subtitles": [
+              "HYPER"
+            ],
+            "subartists": [],
+            "difficulty": 3,
+            "level": 7
+          },
+          "noteCount": 612,
+          "bpm": {
+            "init": 240,
+            "min": 240,
+            "median": 240,
+            "max": 240
+          },
+          "duration": 129,
+          "scratch": true,
+          "keys": "7K",
+          "file": "HYPER.bms"
+        },
+        {
+          "md5": "d34dae6084a8d2e994c1598857a46a6f",
+          "info": {
+            "title": "SERIOUS ERROR",
+            "artist": "Laur",
+            "genre": "FRENCHCORE",
+            "subtitles": [
+              "INSANE"
+            ],
+            "subartists": [],
+            "difficulty": 5,
+            "level": 0
+          },
+          "noteCount": 2260,
+          "bpm": {
+            "init": 240,
+            "min": 240,
+            "median": 240,
+            "max": 240
+          },
+          "duration": 129,
+          "scratch": true,
+          "keys": "7K",
+          "file": "INSANE.bms"
+        },
+        {
+          "md5": "f794406aec0a192850d9e888ffbc6962",
+          "info": {
+            "title": "SERIOUS ERROR",
+            "artist": "Laur",
+            "genre": "FRENCHCORE",
+            "subtitles": [
+              "NORMAL"
+            ],
+            "subartists": [],
+            "difficulty": 2,
+            "level": 5
+          },
+          "noteCount": 418,
+          "bpm": {
+            "init": 240,
+            "min": 240,
+            "median": 240,
+            "max": 240
+          },
+          "duration": 129,
+          "scratch": true,
+          "keys": "7K",
+          "file": "NORMAL.bms"
+        },
+        {
+          "md5": "1ffb361dba84307332f02a6f126faa2a",
+          "info": {
+            "title": "SERIOUS ERROR",
+            "artist": "Laur",
+            "genre": "FRENCHCORE",
+            "subtitles": [
+              "codes-XXX"
+            ],
+            "subartists": [],
+            "difficulty": 0,
+            "level": 0
+          },
+          "noteCount": 2873,
+          "bpm": {
+            "init": 240,
+            "min": 240,
+            "median": 240,
+            "max": 240
+          },
+          "duration": 129,
+          "scratch": true,
+          "keys": "7K",
+          "file": "XXX.bms"
+        }
+      ],
+      "title": "SERIOUS ERROR",
+      "artist": "Laur",
+      "genre": "FRENCHCORE",
+      "bpm": 240,
+      "replaygain": "-12.18 dB",
+      "preview_offset": 22,
+      "preview_url": "bemuse-data/preview.mp3",
+      "song_url": "https://soundcloud.com/laur_10/bofu2016-laur-serious-error",
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=266&event=110",
+      "bmssearch_id": "egYyR_S1hnpbuI",
+      "readme": "README.md",
+      "added": "2023-09-24T00:00:00.000Z",
+      "id": "tanoc1",
+      "path": "https://bmsmaster.github.io/bemuse-alpha/tanoc1/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "da51447122a49bf901814ff751188db2",
+          "info": {
+            "title": "Happily Ever After feat. Hatsune Miku",
+            "artist": "MaiT",
+            "genre": "Dubstep",
+            "subtitles": [
+              "[NORMAL]"
+            ],
+            "subartists": [
+              "lyrics: �_�{뾴, illust: Arang, obj: MaiT"
+            ],
+            "difficulty": 2,
+            "level": 4
+          },
+          "noteCount": 429,
+          "bpm": {
+            "init": 143,
+            "min": 143,
+            "median": 143,
+            "max": 143
+          },
+          "duration": 129.44055944055944,
+          "scratch": true,
+          "keys": "7K",
+          "file": "HEA (1).bms"
+        },
+        {
+          "md5": "4f7a8dd1d7898c2b6506c9520d84b9de",
+          "info": {
+            "title": "Happily Ever After feat. Hatsune Miku",
+            "artist": "MaiT",
+            "genre": "Dubstep",
+            "subtitles": [
+              "[BEGINNER]"
+            ],
+            "subartists": [
+              "lyrics: �_�{뾴, illust: Arang, obj: w"
+            ],
+            "difficulty": 1,
+            "level": 1
+          },
+          "noteCount": 118,
+          "bpm": {
+            "init": 143,
+            "min": 143,
+            "median": 143,
+            "max": 143
+          },
+          "duration": 129.44055944055944,
+          "scratch": true,
+          "keys": "7K",
+          "file": "HEA (2).bms"
+        },
+        {
+          "md5": "890ea17c7e0f50430116cb118f4d1d4a",
+          "info": {
+            "title": "Happily Ever After feat. Hatsune Miku",
+            "artist": "MaiT",
+            "genre": "Dubstep",
+            "subtitles": [
+              "[HYPER]"
+            ],
+            "subartists": [
+              "lyrics: �_�{뾴, illust: Arang, obj: MaiT"
+            ],
+            "difficulty": 3,
+            "level": 7
+          },
+          "noteCount": 762,
+          "bpm": {
+            "init": 143,
+            "min": 143,
+            "median": 143,
+            "max": 143
+          },
+          "duration": 129.44055944055944,
+          "scratch": true,
+          "keys": "7K",
+          "file": "HEA (3).bms"
+        },
+        {
+          "md5": "c6787448cae0d6e7252b654a94cd2cf7",
+          "info": {
+            "title": "Happily Ever After feat. Hatsune Miku",
+            "artist": "MaiT",
+            "genre": "Dubstep",
+            "subtitles": [
+              "[皿-LN]"
+            ],
+            "subartists": [
+              "lyrics: 神宮要, illust: Arang, obj: w"
+            ],
+            "difficulty": 5,
+            "level": 9
+          },
+          "noteCount": 1430,
+          "bpm": {
+            "init": 143,
+            "min": 143,
+            "median": 143,
+            "max": 143
+          },
+          "duration": 129.44055944055944,
+          "scratch": true,
+          "keys": "7K",
+          "file": "HEA (4).bms"
+        },
+        {
+          "md5": "7b373324a7e1a275931c9534acfcfc04",
+          "info": {
+            "title": "Happily Ever After feat. Hatsune Miku",
+            "artist": "MaiT",
+            "genre": "Dubstep",
+            "subtitles": [
+              "[ANOTHER]"
+            ],
+            "subartists": [
+              "lyrics: �_�{뾴, illust: Arang, obj: w"
+            ],
+            "difficulty": 4,
+            "level": 11
+          },
+          "noteCount": 1281,
+          "bpm": {
+            "init": 143,
+            "min": 143,
+            "median": 143,
+            "max": 143
+          },
+          "duration": 129.44055944055944,
+          "scratch": true,
+          "keys": "7K",
+          "file": "HEA.bms"
+        }
+      ],
+      "title": "Happily Ever After feat. Hatsune Miku",
+      "artist": "MaiT",
+      "genre": "Dubstep",
+      "bpm": 143,
+      "replaygain": "-9.11 dB",
+      "preview_offset": 54.545,
+      "preview_url": "bemuse-data/preview.mp3",
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=294&event=140",
+      "bmssearch_id": "IfZLGsQVbHk10v",
+      "readme": "README.md",
+      "song_url": "https://soundcloud.com/mait-mus/bofet-happily-ever-after-feat-hatsune-miku",
+      "artist_url": "https://soundcloud.com/mait-mus",
+      "back_image_url": "bemuse-data/back_image.png",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+      "added": "2023-09-27T00:00:00.000Z",
+      "id": "vocaloid3",
+      "path": "https://bmsmaster.github.io/bemuse-alpha/vocaloid3/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "bad634dd7ef1e5b65c27180cc66890c3",
+          "info": {
+            "title": "Oblivion",
+            "artist": "ESTi",
+            "genre": "Dramatic Trance",
+            "subtitles": [
+              "ANOTHER"
+            ],
+            "subartists": [],
+            "difficulty": 4,
+            "level": 8
+          },
+          "noteCount": 624,
+          "bpm": {
+            "init": 141,
+            "min": 141,
+            "median": 141,
+            "max": 141
+          },
+          "duration": 120,
+          "scratch": true,
+          "keys": "7K",
+          "file": "OBLIVION_7a.bms"
+        },
+        {
+          "md5": "b6e7a4d9981b3b75173affd955dbb251",
+          "info": {
+            "title": "Oblivion",
+            "artist": "ESTi",
+            "genre": "Dramatic Trance",
+            "subtitles": [
+              "BLACK ANOTHER"
+            ],
+            "subartists": [],
+            "difficulty": 5,
+            "level": 10
+          },
+          "noteCount": 1142,
+          "bpm": {
+            "init": 141,
+            "min": 141,
+            "median": 141,
+            "max": 141
+          },
+          "duration": 120,
+          "scratch": true,
+          "keys": "7K",
+          "file": "OBLIVION_7ba.bms"
+        },
+        {
+          "md5": "1c95068ab40cc751e2e2b489b88b56f9",
+          "info": {
+            "title": "Oblivion",
+            "artist": "ESTi",
+            "genre": "Dramatic Trance",
+            "subtitles": [
+              "HYPER"
+            ],
+            "subartists": [],
+            "difficulty": 3,
+            "level": 6
+          },
+          "noteCount": 515,
+          "bpm": {
+            "init": 141,
+            "min": 141,
+            "median": 141,
+            "max": 141
+          },
+          "duration": 120,
+          "scratch": true,
+          "keys": "7K",
+          "file": "OBLIVION_7h.bms"
+        },
+        {
+          "md5": "503cdff3384375ccaa7c884b0abdc40b",
+          "info": {
+            "title": "Oblivion",
+            "artist": "ESTi",
+            "genre": "Dramatic Trance",
+            "subtitles": [
+              "NORMAL"
+            ],
+            "subartists": [],
+            "difficulty": 2,
+            "level": 4
+          },
+          "noteCount": 349,
+          "bpm": {
+            "init": 141,
+            "min": 141,
+            "median": 141,
+            "max": 141
+          },
+          "duration": 120,
+          "scratch": true,
+          "keys": "7K",
+          "file": "OBLIVION_7n.bms"
+        },
+        {
+          "md5": "8bbb30988eee277a5375ca5e6fb15a41",
+          "info": {
+            "title": "Oblivion",
+            "artist": "ESTi",
+            "genre": "Dramatic Trance",
+            "subtitles": [
+              "SC"
+            ],
+            "subartists": [],
+            "difficulty": 5,
+            "level": 12
+          },
+          "noteCount": 1619,
+          "bpm": {
+            "init": 141,
+            "min": 141,
+            "median": 141,
+            "max": 141
+          },
+          "duration": 120,
+          "scratch": true,
+          "keys": "7K",
+          "file": "OBLIVION_7sc.bms"
+        }
+      ],
+      "title": "Oblivion",
+      "artist": "ESTi",
+      "genre": "Dramatic Trance",
+      "bpm": 141,
+      "replaygain": "-12.08 dB",
+      "preview_offset": 72.34,
+      "preview_url": "bemuse-data/preview.mp3",
+      "readme": "README.md",
+      "added": "2023-09-27T00:00:00.000Z",
+      "id": "oblivion",
+      "path": "https://bmsmaster.github.io/bemuse-alpha/MayBeRemovedIfRequested/oblivion/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "c81c614b408db0363d471dd18d9c0fd5",
+          "info": {
+            "title": "FINAL STRIKER!",
+            "artist": "litmus* feat. Conyabata",
+            "genre": "10's Electro Pop",
+            "subtitles": [
+              "[Another]"
+            ],
+            "subartists": [],
+            "difficulty": 4,
+            "level": 10
+          },
+          "noteCount": 1170,
+          "bpm": {
+            "init": 128,
+            "min": 128,
+            "median": 128,
+            "max": 128
+          },
+          "duration": 148.359375,
+          "scratch": true,
+          "keys": "7K",
+          "file": "litmus_finalstriker_7a.bms"
+        },
+        {
+          "md5": "ff08095ae0f299f32fa2a4196148253b",
+          "info": {
+            "title": "FINAL STRIKER!",
+            "artist": "litmus* feat. Conyabata",
+            "genre": "10's Electro Pop",
+            "subtitles": [
+              "[Beginner]"
+            ],
+            "subartists": [
+              "obj: BMS Chart Master"
+            ],
+            "difficulty": 1,
+            "level": 2
+          },
+          "noteCount": 139,
+          "bpm": {
+            "init": 128,
+            "min": 128,
+            "median": 128,
+            "max": 128
+          },
+          "duration": 148.359375,
+          "scratch": true,
+          "keys": "7K",
+          "file": "litmus_finalstriker_7b.bms"
+        },
+        {
+          "md5": "b1f849fed29e495e8115d71bdc8a57a0",
+          "info": {
+            "title": "FINAL STRIKER!",
+            "artist": "litmus* feat. Conyabata",
+            "genre": "10's Electro Pop",
+            "subtitles": [
+              "[Hyper]"
+            ],
+            "subartists": [],
+            "difficulty": 3,
+            "level": 6
+          },
+          "noteCount": 648,
+          "bpm": {
+            "init": 128,
+            "min": 128,
+            "median": 128,
+            "max": 128
+          },
+          "duration": 148.359375,
+          "scratch": true,
+          "keys": "7K",
+          "file": "litmus_finalstriker_7h.bms"
+        },
+        {
+          "md5": "9894156ca60477a7da2915fbbd3aa4ed",
+          "info": {
+            "title": "FINAL STRIKER!",
+            "artist": "litmus* feat. Conyabata",
+            "genre": "10's Electro Pop",
+            "subtitles": [
+              "[Normal]"
+            ],
+            "subartists": [],
+            "difficulty": 2,
+            "level": 3
+          },
+          "noteCount": 277,
+          "bpm": {
+            "init": 128,
+            "min": 128,
+            "median": 128,
+            "max": 128
+          },
+          "duration": 148.359375,
+          "scratch": true,
+          "keys": "7K",
+          "file": "litmus_finalstriker_7n.bms"
+        }
+      ],
+      "title": "FINAL STRIKER!",
+      "artist": "litmus* feat. Conyabata",
+      "genre": "10's Electro Pop",
+      "bpm": 128,
+      "replaygain": "-11.08 dB",
+      "preview_offset": 29.531,
+      "preview_url": "bemuse-data/preview.mp3",
+      "song_url": "https://soundcloud.com/litmus_star/final-striker",
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=423&event=140",
+      "youtube_url": "https://www.youtube.com/watch?v=35Hly9Ijg9s",
+      "bmssearch_id": "7Yq__hM03xgx3I",
+      "artist_url": "https://soundcloud.com/litmus_star",
+      "readme": "README.md",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+      "video_url": "bemuse-data/bga.mp4",
+      "back_image_url": "bemuse-data/back_image.jpg",
+      "added": "2023-10-04T00:00:00.000Z",
+      "id": "[litmus]finalstriker",
+      "path": "https://bmsmaster.github.io/songs/[litmus]finalstriker/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "61caa2020dc93f28e334a49356f0f90e",
+          "info": {
+            "title": "Dig Dug Dog",
+            "artist": "MiKaDo",
+            "genre": "HAPPY HARDCORE",
+            "subtitles": [
+              "[ANOTHER]"
+            ],
+            "subartists": [],
+            "difficulty": 4,
+            "level": 12
+          },
+          "noteCount": 1193,
+          "bpm": {
+            "init": 180,
+            "min": 180,
+            "median": 180,
+            "max": 180
+          },
+          "duration": 98.66666666666667,
+          "scratch": true,
+          "keys": "7K",
+          "file": "SP_A.bms"
+        },
+        {
+          "md5": "744f4fd5d1afe695a2f2cf62dd825c3c",
+          "info": {
+            "title": "Dig Dug Dog",
+            "artist": "MiKaDo",
+            "genre": "HAPPY HARDCORE",
+            "subtitles": [
+              "[BEGINNER]"
+            ],
+            "subartists": [],
+            "difficulty": 1,
+            "level": 3
+          },
+          "noteCount": 260,
+          "bpm": {
+            "init": 180,
+            "min": 180,
+            "median": 180,
+            "max": 180
+          },
+          "duration": 98.66666666666667,
+          "scratch": true,
+          "keys": "7K",
+          "file": "SP_B.bms"
+        },
+        {
+          "md5": "e5b72405f4caea037553c69057c7b48c",
+          "info": {
+            "title": "Dig Dug Dog",
+            "artist": "MiKaDo",
+            "genre": "HAPPY HARDCORE",
+            "subtitles": [
+              "[HYPER]"
+            ],
+            "subartists": [],
+            "difficulty": 3,
+            "level": 9
+          },
+          "noteCount": 706,
+          "bpm": {
+            "init": 180,
+            "min": 180,
+            "median": 180,
+            "max": 180
+          },
+          "duration": 98.66666666666667,
+          "scratch": true,
+          "keys": "7K",
+          "file": "SP_H.bms"
+        },
+        {
+          "md5": "33808fc3ff3e8d13d286efde2a1c783a",
+          "info": {
+            "title": "Dig Dug Dog",
+            "artist": "MiKaDo",
+            "genre": "HAPPY HARDCORE",
+            "subtitles": [
+              "[INSANE]"
+            ],
+            "subartists": [],
+            "difficulty": 5,
+            "level": 12
+          },
+          "noteCount": 1580,
+          "bpm": {
+            "init": 180,
+            "min": 180,
+            "median": 180,
+            "max": 180
+          },
+          "duration": 98.66666666666667,
+          "scratch": true,
+          "keys": "7K",
+          "file": "SP_I.bms"
+        },
+        {
+          "md5": "c3dfb542f29082ae8248fd71217e059e",
+          "info": {
+            "title": "Dig Dug Dog",
+            "artist": "MiKaDo",
+            "genre": "HAPPY HARDCORE",
+            "subtitles": [
+              "[NORMAL]"
+            ],
+            "subartists": [],
+            "difficulty": 2,
+            "level": 6
+          },
+          "noteCount": 435,
+          "bpm": {
+            "init": 180,
+            "min": 180,
+            "median": 180,
+            "max": 180
+          },
+          "duration": 98.66666666666667,
+          "scratch": true,
+          "keys": "7K",
+          "file": "SP_N.bms"
+        }
+      ],
+      "title": "Dig Dug Dog",
+      "artist": "MiKaDo",
+      "genre": "HAPPY HARDCORE",
+      "bpm": 180,
+      "replaygain": "-8.6 dB",
+      "preview_offset": 32.666,
+      "preview_url": "bemuse-data/preview.mp3",
+      "song_url": "https://soundcloud.com/platinum_mkd/dig-dug-dog",
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=84&event=142",
+      "youtube_url": "https://www.youtube.com/watch?v=flI_YAFKwjs",
+      "artist_url": "https://soundcloud.com/platinum_mkd",
+      "readme": "README.md",
+      "back_image_url": "bemuse-data/back_image.png",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+      "video_url": "bemuse-data/bga.mp4",
+      "added": "2023-10-04T00:00:00.000Z",
+      "id": "[mikado]digdugdog",
+      "path": "https://bmsmaster.github.io/songs/[mikado]digdugdog/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "ceeacffee480024a08414d8ce4481efe",
+          "info": {
+            "title": "みけねこにゃん太",
+            "artist": "numuto feat.夏色花梨 / BGA:にょろも",
+            "genre": "童謡",
+            "subtitles": [
+              "[7Beginner]"
+            ],
+            "subartists": [
+              "obj:にょろも"
+            ],
+            "difficulty": 1,
+            "level": 2
+          },
+          "noteCount": 281,
+          "bpm": {
+            "init": 150,
+            "min": 150,
+            "median": 150,
+            "max": 150
+          },
+          "duration": 161.6,
+          "scratch": true,
+          "keys": "7K",
+          "file": "chart1.bms"
+        },
+        {
+          "md5": "cfc036427ea7b682f16c9f05fcedf372",
+          "info": {
+            "title": "みけねこにゃん太",
+            "artist": "numuto feat.夏色花梨 / BGA:にょろも",
+            "genre": "童謡",
+            "subtitles": [
+              "[7Normal]"
+            ],
+            "subartists": [
+              "obj:にょろも"
+            ],
+            "difficulty": 2,
+            "level": 6
+          },
+          "noteCount": 579,
+          "bpm": {
+            "init": 150,
+            "min": 150,
+            "median": 150,
+            "max": 150
+          },
+          "duration": 161.6,
+          "scratch": true,
+          "keys": "7K",
+          "file": "chart2.bms"
+        },
+        {
+          "md5": "7ebdabdcf32aec2ad222ce671cba6606",
+          "info": {
+            "title": "みけねこにゃん太",
+            "artist": "numuto feat.夏色花梨 / BGA:にょろも",
+            "genre": "童謡",
+            "subtitles": [
+              "[7Hyper]"
+            ],
+            "subartists": [
+              "obj:にょろも"
+            ],
+            "difficulty": 3,
+            "level": 9
+          },
+          "noteCount": 1366,
+          "bpm": {
+            "init": 150,
+            "min": 150,
+            "median": 150,
+            "max": 150
+          },
+          "duration": 161.6,
+          "scratch": true,
+          "keys": "7K",
+          "file": "chart3.bms"
+        },
+        {
+          "md5": "05e17fd773edc3660bc553e74d8e39d7",
+          "info": {
+            "title": "みけねこにゃん太",
+            "artist": "numuto feat.夏色花梨 / BGA:にょろも",
+            "genre": "童謡",
+            "subtitles": [
+              "[7Another]"
+            ],
+            "subartists": [
+              "obj:numuto"
+            ],
+            "difficulty": 4,
+            "level": 11
+          },
+          "noteCount": 1939,
+          "bpm": {
+            "init": 150,
+            "min": 150,
+            "median": 150,
+            "max": 150
+          },
+          "duration": 161.6,
+          "scratch": true,
+          "keys": "7K",
+          "file": "chart4.bms"
+        },
+        {
+          "md5": "6f9b4739d1d1db2352836d29689448f3",
+          "info": {
+            "title": "みけねこにゃん太",
+            "artist": "numuto feat.夏色花梨 / BGA:にょろも",
+            "genre": "童謡",
+            "subtitles": [
+              "[7Insane]"
+            ],
+            "subartists": [
+              "obj:にょろも"
+            ],
+            "difficulty": 5,
+            "level": 12
+          },
+          "noteCount": 2694,
+          "bpm": {
+            "init": 150,
+            "min": 150,
+            "median": 150,
+            "max": 150
+          },
+          "duration": 161.6,
+          "scratch": true,
+          "keys": "7K",
+          "file": "chart5.bms"
+        }
+      ],
+      "title": "みけねこにゃん太",
+      "artist": "numuto feat.夏色花梨",
+      "genre": "童謡",
+      "bpm": 150,
+      "replaygain": "-13.11 dB",
+      "preview_offset": 8.8,
+      "preview_url": "bemuse-data/preview.mp3",
+      "song_url": "https://soundcloud.com/kgisjhy3c6t6/bofnt",
+      "readme": "README.md",
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=53&event=142",
+      "youtube_url": "https://www.youtube.com/watch?v=3pOH4f0dasU",
+      "artist_url": "https://soundcloud.com/kgisjhy3c6t6",
+      "added": "2023-10-04T00:00:00.000Z",
+      "id": "[numuto]nyanta",
+      "path": "https://bmsmaster.github.io/songs/[numuto]nyanta/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "a0b9f78d2598e1f3206d6de768c7c7a5",
+          "info": {
+            "title": "Convergence",
+            "artist": "LYRi \"Cyanblue\" WHiTE x NIKANON",
+            "genre": "TRANSCENDENCE",
+            "subtitles": [
+              "[SP ANOTHER]"
+            ],
+            "subartists": [
+              "bms. Qyubey / mov. Siesphere / obj. tkqn14"
+            ],
+            "difficulty": 4,
+            "level": 12
+          },
+          "noteCount": 1734,
+          "bpm": {
+            "init": 212,
+            "min": 212,
+            "median": 212,
+            "max": 212
+          },
+          "duration": 139.81132075471697,
+          "scratch": true,
+          "keys": "7K",
+          "file": "chart1.bms"
+        },
+        {
+          "md5": "4955e1bb17915c741d6f794fb0a5344a",
+          "info": {
+            "title": "Convergence",
+            "artist": "LYRi \"Cyanblue\" WHiTE x NIKANON",
+            "genre": "TRANSCENDENCE",
+            "subtitles": [
+              "[SP BEGINNER]"
+            ],
+            "subartists": [
+              "bms. Qyubey / mov. Siesphere / obj. Seori"
+            ],
+            "difficulty": 1,
+            "level": 3
+          },
+          "noteCount": 294,
+          "bpm": {
+            "init": 212,
+            "min": 212,
+            "median": 212,
+            "max": 212
+          },
+          "duration": 139.81132075471697,
+          "scratch": true,
+          "keys": "7K",
+          "file": "chart2.bms"
+        },
+        {
+          "md5": "4d2d4e84efc51a68602f4c4e872e5a1c",
+          "info": {
+            "title": "Convergence",
+            "artist": "LYRi \"Cyanblue\" WHiTE x NIKANON",
+            "genre": "TRANSCENDENCE",
+            "subtitles": [
+              "[Exosphere]"
+            ],
+            "subartists": [
+              "obj. Mary_Sue"
+            ],
+            "difficulty": 5,
+            "level": 12
+          },
+          "noteCount": 3030,
+          "bpm": {
+            "init": 212,
+            "min": 212,
+            "median": 212,
+            "max": 212
+          },
+          "duration": 139.81132075471697,
+          "scratch": true,
+          "keys": "7K",
+          "file": "chart3.bms"
+        },
+        {
+          "md5": "193862fc15a8141274bb90fe5ab88bf8",
+          "info": {
+            "title": "Convergence",
+            "artist": "LYRi \"Cyanblue\" WHiTE x NIKANON",
+            "genre": "TRANSCENDENCE",
+            "subtitles": [
+              "Hubble's Prophecy"
+            ],
+            "subartists": [
+              "bms. Qyubey / mov. Siesphere / obj. Seori & Mary_Sue"
+            ],
+            "difficulty": 5,
+            "level": 12
+          },
+          "noteCount": 3636,
+          "bpm": {
+            "init": 212,
+            "min": 212,
+            "median": 212,
+            "max": 212
+          },
+          "duration": 156.7924528301887,
+          "scratch": true,
+          "keys": "7K",
+          "file": "chart4.bms"
+        },
+        {
+          "md5": "1e49935e8b9bee68190a0cd38cfe847f",
+          "info": {
+            "title": "Convergence",
+            "artist": "LYRi \"Cyanblue\" WHiTE x NIKANON",
+            "genre": "TRANSCENDENCE",
+            "subtitles": [
+              "[SP HYPER]"
+            ],
+            "subartists": [
+              "bms. Qyubey / mov. Siesphere / obj. tkqn14"
+            ],
+            "difficulty": 3,
+            "level": 10
+          },
+          "noteCount": 1078,
+          "bpm": {
+            "init": 212,
+            "min": 212,
+            "median": 212,
+            "max": 212
+          },
+          "duration": 139.81132075471697,
+          "scratch": true,
+          "keys": "7K",
+          "file": "chart5.bms"
+        },
+        {
+          "md5": "1b630b165d9abf976b602ece88e94888",
+          "info": {
+            "title": "Convergence",
+            "artist": "LYRi \"Cyanblue\" WHiTE x NIKANON",
+            "genre": "TRANSCENDENCE",
+            "subtitles": [
+              "[SP INSANE]"
+            ],
+            "subartists": [
+              "bms. Qyubey / mov. Siesphere / obj. tkqn14 & Seori"
+            ],
+            "difficulty": 5,
+            "level": 12
+          },
+          "noteCount": 2023,
+          "bpm": {
+            "init": 212,
+            "min": 212,
+            "median": 212,
+            "max": 212
+          },
+          "duration": 139.81132075471697,
+          "scratch": true,
+          "keys": "7K",
+          "file": "chart6.bms"
+        },
+        {
+          "md5": "063a3aeecc049a0338fc9a6559a59616",
+          "info": {
+            "title": "Convergence",
+            "artist": "LYRi \"Cyanblue\" WHiTE x NIKANON",
+            "genre": "TRANSCENDENCE",
+            "subtitles": [
+              "[Mesosphere]"
+            ],
+            "subartists": [
+              "bms. Qyubey / mov. Siesphere / obj. Seori"
+            ],
+            "difficulty": 5,
+            "level": 12
+          },
+          "noteCount": 2101,
+          "bpm": {
+            "init": 212,
+            "min": 212,
+            "median": 212,
+            "max": 212
+          },
+          "duration": 139.81132075471697,
+          "scratch": true,
+          "keys": "7K",
+          "file": "chart7.bms"
+        },
+        {
+          "md5": "cb872280605a1495d3575980d3f3523e",
+          "info": {
+            "title": "Convergence",
+            "artist": "LYRi \"Cyanblue\" WHiTE x NIKANON",
+            "genre": "TRANSCENDENCE",
+            "subtitles": [
+              "[SP NORMAL]"
+            ],
+            "subartists": [
+              "bms. Qyubey / mov. Siesphere / obj. Seori & tkqn14"
+            ],
+            "difficulty": 2,
+            "level": 7
+          },
+          "noteCount": 702,
+          "bpm": {
+            "init": 212,
+            "min": 212,
+            "median": 212,
+            "max": 212
+          },
+          "duration": 139.81132075471697,
+          "scratch": true,
+          "keys": "7K",
+          "file": "chart8.bms"
+        }
+      ],
+      "title": "Convergence",
+      "artist": "LYRi \"Cyanblue\" WHiTE x NIKANON",
+      "genre": "TRANSCENDENCE",
+      "bpm": 212,
+      "replaygain": "-8.04 dB",
+      "preview_offset": 101.886,
+      "preview_url": "bemuse-data/preview.mp3",
+      "back_image_url": "bemuse-data/back_image.png",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+      "video_url": "bemuse-data/bga.mp4",
+      "video_offset": 3.396,
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=99&event=142",
+      "youtube_url": "https://www.youtube.com/watch?v=iUB32XQAwEE",
+      "readme": "README.md",
+      "added": "2023-10-04T00:00:00.000Z",
+      "id": "[singularity]convergence",
+      "path": "https://bmsmaster.github.io/songs/[singularity]convergence/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "09830ea46cc39aea1e37882da5ef8e7e",
+          "info": {
+            "title": "Cat's rule",
+            "artist": "Chilldive",
+            "genre": "\"aww\"",
+            "subtitles": [
+              "5K Beginner"
+            ],
+            "subartists": [],
+            "difficulty": 1,
+            "level": 1
+          },
+          "noteCount": 292,
+          "bpm": {
+            "init": 120,
+            "min": 120,
+            "median": 120,
+            "max": 120
+          },
+          "duration": 148.36910270411428,
+          "scratch": true,
+          "keys": "5K",
+          "file": "ch1.bms"
+        },
+        {
+          "md5": "587ba98fb75f71f88dae3a42e67d6dd8",
+          "info": {
+            "title": "Cat's rule",
+            "artist": "Chilldive",
+            "genre": "\"aww\"",
+            "subtitles": [
+              "Insane"
+            ],
+            "subartists": [],
+            "difficulty": 4,
+            "level": 12
+          },
+          "noteCount": 1508,
+          "bpm": {
+            "init": 120,
+            "min": 120,
+            "median": 120,
+            "max": 120
+          },
+          "duration": 148.36910270411428,
+          "scratch": true,
+          "keys": "7K",
+          "file": "ch2.bms"
+        },
+        {
+          "md5": "11ab4d250fde1fe5151c5ce5d9001f68",
+          "info": {
+            "title": "Cat's rule",
+            "artist": "Chilldive",
+            "genre": "\"aww\"",
+            "subtitles": [
+              "5k Hyper"
+            ],
+            "subartists": [],
+            "difficulty": 3,
+            "level": 9
+          },
+          "noteCount": 1045,
+          "bpm": {
+            "init": 120,
+            "min": 120,
+            "median": 120,
+            "max": 120
+          },
+          "duration": 148.36910270411428,
+          "scratch": true,
+          "keys": "5K",
+          "file": "ch3.bms"
+        },
+        {
+          "md5": "95c051b4aaa97310f4e5d8734e4a19c1",
+          "info": {
+            "title": "Cat's rule",
+            "artist": "Chilldive",
+            "genre": "\"aww\"",
+            "subtitles": [
+              "Normal"
+            ],
+            "subartists": [],
+            "difficulty": 2,
+            "level": 7
+          },
+          "noteCount": 679,
+          "bpm": {
+            "init": 120,
+            "min": 120,
+            "median": 120,
+            "max": 120
+          },
+          "duration": 148.36910270411428,
+          "scratch": true,
+          "keys": "7K",
+          "file": "ch4.bms"
+        },
+        {
+          "md5": "73df4300e16f103360a063f54e2ee764",
+          "info": {
+            "title": "Cat's rule",
+            "artist": "Chilldive",
+            "genre": "\"aww\"",
+            "subtitles": [
+              "Hyper"
+            ],
+            "subartists": [],
+            "difficulty": 3,
+            "level": 9
+          },
+          "noteCount": 1012,
+          "bpm": {
+            "init": 120,
+            "min": 120,
+            "median": 120,
+            "max": 120
+          },
+          "duration": 148.36910270411428,
+          "scratch": true,
+          "keys": "7K",
+          "file": "ch5.bms"
+        },
+        {
+          "md5": "8efe24e62b7b42ca8b065de8bc53ccce",
+          "info": {
+            "title": "Cat's rule",
+            "artist": "Chilldive",
+            "genre": "\"aww\"",
+            "subtitles": [
+              "Easy"
+            ],
+            "subartists": [],
+            "difficulty": 1,
+            "level": 3
+          },
+          "noteCount": 459,
+          "bpm": {
+            "init": 120,
+            "min": 120,
+            "median": 120,
+            "max": 120
+          },
+          "duration": 148.36910270411428,
+          "scratch": true,
+          "keys": "7K",
+          "file": "ch6.bms"
+        }
+      ],
+      "title": "Cat's rule",
+      "artist": "Chilldive",
+      "genre": "\"aww\"",
+      "bpm": 120,
+      "replaygain": "-9.88 dB",
+      "preview_offset": 34.5,
+      "preview_url": "bemuse-data/preview.mp3",
+      "song_url": "https://soundcloud.com/chilldive/bofet-cats-rule",
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=35&event=140",
+      "youtube_url": "https://www.youtube.com/watch?v=l256YRf_c0I",
+      "bmssearch_id": "NyhCd7fcFPdhFb",
+      "readme": "README.md",
+      "back_image_url": "bemuse-data/back_image.png",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+      "video_url": "bemuse-data/bga.mp4",
+      "video_offset": 0.5,
+      "added": "2023-10-04T00:00:00.000Z",
+      "id": "[chilldive]catsrule",
+      "path": "https://bmsmaster.github.io/songs/[chilldive]catsrule/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "509d3be74a45a8782373bcc7129932ae",
+          "info": {
+            "title": "MORNINGLOOM",
+            "artist": "saaa / BGA : すずあ",
+            "genre": "MORNING ROUTINE",
+            "subtitles": [
+              "[EXAM]"
+            ],
+            "subartists": [],
+            "difficulty": 5,
+            "level": 17
+          },
+          "noteCount": 2380,
+          "bpm": {
+            "init": 102,
+            "min": 102,
+            "median": 204,
+            "max": 204
+          },
+          "duration": 135.88235294117635,
+          "scratch": true,
+          "keys": "7K",
+          "file": "mg_EXAM.bms"
+        },
+        {
+          "md5": "b1c04d102bcf27b74a9257000f3f02cb",
+          "info": {
+            "title": "MORNINGLOOM",
+            "artist": "saaa / BGA : すずあ",
+            "genre": "MORNING ROUTINE",
+            "subtitles": [
+              "[GUIDANCE]"
+            ],
+            "subartists": [],
+            "difficulty": 5,
+            "level": 5
+          },
+          "noteCount": 1733,
+          "bpm": {
+            "init": 102,
+            "min": 102,
+            "median": 204,
+            "max": 204
+          },
+          "duration": 135.88235294117635,
+          "scratch": true,
+          "keys": "7K",
+          "file": "mg_GUIDANCE.bms"
+        },
+        {
+          "md5": "44c37cd5906a98b3a64ed9c093b27b85",
+          "info": {
+            "title": "MORNINGLOOM",
+            "artist": "saaa / BGA : すずあ",
+            "genre": "MORNING ROUTINE",
+            "subtitles": [
+              "[SP ANOTHER]"
+            ],
+            "subartists": [],
+            "difficulty": 4,
+            "level": 10
+          },
+          "noteCount": 1165,
+          "bpm": {
+            "init": 102,
+            "min": 102,
+            "median": 204,
+            "max": 204
+          },
+          "duration": 135.88235294117635,
+          "scratch": true,
+          "keys": "7K",
+          "file": "mg_SPA.bms"
+        },
+        {
+          "md5": "dfa37ee7db7f63038ade499ced19e687",
+          "info": {
+            "title": "MORNINGLOOM",
+            "artist": "saaa / BGA : すずあ",
+            "genre": "MORNING ROUTINE",
+            "subtitles": [
+              "[SP BEGINNER]"
+            ],
+            "subartists": [],
+            "difficulty": 1,
+            "level": 1
+          },
+          "noteCount": 111,
+          "bpm": {
+            "init": 102,
+            "min": 102,
+            "median": 204,
+            "max": 204
+          },
+          "duration": 135.88235294117635,
+          "scratch": true,
+          "keys": "7K",
+          "file": "mg_SPB.bms"
+        },
+        {
+          "md5": "1d3a437d0986979f99aceb309fa853d9",
+          "info": {
+            "title": "MORNINGLOOM",
+            "artist": "saaa / BGA : すずあ",
+            "genre": "MORNING ROUTINE",
+            "subtitles": [
+              "[SP HYPER]"
+            ],
+            "subartists": [],
+            "difficulty": 3,
+            "level": 8
+          },
+          "noteCount": 785,
+          "bpm": {
+            "init": 102,
+            "min": 102,
+            "median": 204,
+            "max": 204
+          },
+          "duration": 135.88235294117635,
+          "scratch": true,
+          "keys": "7K",
+          "file": "mg_SPH.bms"
+        },
+        {
+          "md5": "ab95fa1caba36206206fc1c4f5da56ac",
+          "info": {
+            "title": "MORNINGLOOM",
+            "artist": "saaa / BGA : すずあ",
+            "genre": "MORNING ROUTINE",
+            "subtitles": [
+              "[SP NORMAL]"
+            ],
+            "subartists": [],
+            "difficulty": 2,
+            "level": 4
+          },
+          "noteCount": 323,
+          "bpm": {
+            "init": 102,
+            "min": 102,
+            "median": 204,
+            "max": 204
+          },
+          "duration": 135.88235294117635,
+          "scratch": true,
+          "keys": "7K",
+          "file": "mg_SPN.bms"
+        }
+      ],
+      "title": "MORNINGLOOM",
+      "artist": "saaa",
+      "genre": "MORNING ROUTINE",
+      "bpm": 204,
+      "replaygain": "-9.95 dB",
+      "preview_offset": 18.235,
+      "preview_url": "bemuse-data/preview.mp3",
+      "back_image_url": "bemuse-data/back_image.png",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+      "video_url": "bemuse-data/bga.mp4",
+      "video_offset": 1.176,
+      "song_url": "https://soundcloud.com/saaa_1/bms-saaa-morningloom-bofnt",
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=142",
+      "youtube_url": "https://www.youtube.com/watch?v=K-Z7o_tbBCw",
+      "artist_url": "https://soundcloud.com/saaa_1",
+      "readme": "README.md",
+      "bmssearch_id": "gbkIjpGU_w5nce",
+      "added": "2023-10-09T00:00:00.000Z",
+      "id": "[saaa]morningloom",
+      "path": "https://bmsmaster.github.io/songs/[saaa]morningloom/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "f4757294d612de632ba7df0c26d6592d",
+          "info": {
+            "title": "Save The Night",
+            "artist": "litmus* feat. Nikki Simmons",
+            "genre": "EDM ANTHEM",
+            "subtitles": [
+              "[Normal]"
+            ],
+            "subartists": [
+              "bms/obj:litmus*"
+            ],
+            "difficulty": 2,
+            "level": 4
+          },
+          "noteCount": 397,
+          "bpm": {
+            "init": 128,
+            "min": 128,
+            "median": 128,
+            "max": 128
+          },
+          "duration": 135,
+          "scratch": true,
+          "keys": "7K",
+          "file": "litmus_savethenight_02.bms"
+        },
+        {
+          "md5": "3703dd1fff8b9319531867abafe9bec8",
+          "info": {
+            "title": "Save The Night",
+            "artist": "litmus* feat. Nikki Simmons",
+            "genre": "EDM ANTHEM",
+            "subtitles": [
+              "[Hyper]"
+            ],
+            "subartists": [
+              "bms/obj:litmus*"
+            ],
+            "difficulty": 3,
+            "level": 7
+          },
+          "noteCount": 726,
+          "bpm": {
+            "init": 128,
+            "min": 128,
+            "median": 128,
+            "max": 128
+          },
+          "duration": 135,
+          "scratch": true,
+          "keys": "7K",
+          "file": "litmus_savethenight_03.bms"
+        },
+        {
+          "md5": "a93db95ccb6d13b61869a2cae5a571b9",
+          "info": {
+            "title": "Save The Night",
+            "artist": "litmus* feat. Nikki Simmons",
+            "genre": "EDM ANTHEM",
+            "subtitles": [
+              "[Another]"
+            ],
+            "subartists": [
+              "bms/obj:litmus*"
+            ],
+            "difficulty": 4,
+            "level": 9
+          },
+          "noteCount": 999,
+          "bpm": {
+            "init": 128,
+            "min": 128,
+            "median": 128,
+            "max": 128
+          },
+          "duration": 135,
+          "scratch": true,
+          "keys": "7K",
+          "file": "litmus_savethenight_04.bms"
+        },
+        {
+          "md5": "a74b045a589c4cc5b0077bee64533c47",
+          "info": {
+            "title": "Save The Night",
+            "artist": "litmus* feat. Nikki Simmons",
+            "genre": "EDM ANTHEM",
+            "subtitles": [
+              "[Insane]"
+            ],
+            "subartists": [
+              "bms:litmus*/obj:BMS Chart Master"
+            ],
+            "difficulty": 5,
+            "level": 11
+          },
+          "noteCount": 1268,
+          "bpm": {
+            "init": 128,
+            "min": 128,
+            "median": 128,
+            "max": 128
+          },
+          "duration": 135,
+          "scratch": true,
+          "keys": "7K",
+          "file": "litmus_savethenight_05.bms"
+        }
+      ],
+      "title": "Save The Night",
+      "artist": "litmus* feat. Nikki Simmons",
+      "genre": "EDM ANTHEM",
+      "bpm": 128,
+      "replaygain": "-9.79 dB",
+      "preview_offset": 104.062,
+      "preview_url": "bemuse-data/preview.mp3",
+      "song_url": "https://soundcloud.com/litmus_star/save-the-night",
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=137&event=142",
+      "youtube_url": "https://www.youtube.com/watch?v=LQNiFZVWXss",
+      "long_url": "https://litmus-star.bandcamp.com/track/save-the-night-club-mix",
+      "bmssearch_id": "0RuLIlqxagl7wK",
+      "artist_url": "https://soundcloud.com/litmus_star",
+      "readme": "README.md",
+      "back_image_url": "bemuse-data/back_image.png",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+      "video_url": "bemuse-data/bga.mp4",
+      "added": "2023-10-11T00:00:00.000Z",
+      "id": "[litmus]savethenight",
+      "path": "https://bmsmaster.github.io/songs/[litmus]savethenight/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "269fe651e3d68e95371c968fb45a9534",
+          "info": {
+            "title": "レスキューしてよ！私のコイゴコロ",
+            "artist": "MiKaDo feat. 小春六花",
+            "genre": "Girl's Rock",
+            "subtitles": [
+              "[ANOTHER]"
+            ],
+            "subartists": [],
+            "difficulty": 4,
+            "level": 12
+          },
+          "noteCount": 1884,
+          "bpm": {
+            "init": 190,
+            "min": 190,
+            "median": 190,
+            "max": 190
+          },
+          "duration": 155.3684210526316,
+          "scratch": true,
+          "keys": "7K",
+          "file": "SP_A.bms"
+        },
+        {
+          "md5": "3db8fe60a3d6235aa3c978549f15b8d9",
+          "info": {
+            "title": "レスキューしてよ！私のコイゴコロ",
+            "artist": "MiKaDo feat. 小春六花",
+            "genre": "Girl's Rock",
+            "subtitles": [
+              "[BEGINNER]"
+            ],
+            "subartists": [],
+            "difficulty": 1,
+            "level": 3
+          },
+          "noteCount": 447,
+          "bpm": {
+            "init": 190,
+            "min": 190,
+            "median": 190,
+            "max": 190
+          },
+          "duration": 155.3684210526316,
+          "scratch": true,
+          "keys": "7K",
+          "file": "SP_B.bms"
+        },
+        {
+          "md5": "7ea59eb0c7501620f1e9103027034702",
+          "info": {
+            "title": "レスキューしてよ！私のコイゴコロ",
+            "artist": "MiKaDo feat. 小春六花",
+            "genre": "Girl's Rock",
+            "subtitles": [
+              "[HYPER]"
+            ],
+            "subartists": [],
+            "difficulty": 3,
+            "level": 10
+          },
+          "noteCount": 1210,
+          "bpm": {
+            "init": 190,
+            "min": 190,
+            "median": 190,
+            "max": 190
+          },
+          "duration": 155.3684210526316,
+          "scratch": true,
+          "keys": "7K",
+          "file": "SP_H.bms"
+        },
+        {
+          "md5": "6cec724bed0fbac5d514f50f701d7c37",
+          "info": {
+            "title": "レスキューしてよ！私のコイゴコロ",
+            "artist": "MiKaDo feat. 小春六花",
+            "genre": "Girl's Rock",
+            "subtitles": [
+              "[INSANE]"
+            ],
+            "subartists": [],
+            "difficulty": 5,
+            "level": 12
+          },
+          "noteCount": 2428,
+          "bpm": {
+            "init": 190,
+            "min": 190,
+            "median": 190,
+            "max": 190
+          },
+          "duration": 155.3684210526316,
+          "scratch": true,
+          "keys": "7K",
+          "file": "SP_I.bms"
+        },
+        {
+          "md5": "15cc50714af20913851ee2792148c528",
+          "info": {
+            "title": "レスキューしてよ！私のコイゴコロ",
+            "artist": "MiKaDo feat. 小春六花",
+            "genre": "Girl's Rock",
+            "subtitles": [
+              "[NORMAL]"
+            ],
+            "subartists": [],
+            "difficulty": 2,
+            "level": 6
+          },
+          "noteCount": 711,
+          "bpm": {
+            "init": 190,
+            "min": 190,
+            "median": 190,
+            "max": 190
+          },
+          "duration": 155.3684210526316,
+          "scratch": true,
+          "keys": "7K",
+          "file": "SP_N.bms"
+        }
+      ],
+      "title": "レスキューしてよ！私のコイゴコロ",
+      "artist": "MiKaDo feat. 小春六花",
+      "genre": "Girl's Rock",
+      "bpm": 190,
+      "replaygain": "-7.86 dB",
+      "preview_offset": 73.263,
+      "preview_url": "bemuse-data/preview.mp3",
+      "song_url": "https://soundcloud.com/platinum_mkd/s6na3yj7l2gr",
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=133&event=142",
+      "youtube_url": "https://www.youtube.com/watch?v=88vF2_tlxDk",
+      "bmssearch_id": "GgHkMgDbRkOCvS",
+      "readme": "README.md",
+      "added": "2023-10-11T00:00:00.000Z",
+      "id": "[mikado]rescue",
+      "path": "https://bmsmaster.github.io/songs/[mikado]rescue/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "6ba57c0187a93635a8caa93f7e2061fd",
+          "info": {
+            "title": "B.B.K.K.B.K.K.",
+            "artist": "nora2r / 出前",
+            "genre": "UK HARDCORE",
+            "subtitles": [
+              "ANOTHER"
+            ],
+            "subartists": [],
+            "difficulty": 4,
+            "level": 11
+          },
+          "noteCount": 1247,
+          "bpm": {
+            "init": 170,
+            "min": 170,
+            "median": 170,
+            "max": 170
+          },
+          "duration": 125.6470588235294,
+          "scratch": true,
+          "keys": "7K",
+          "file": "a.bms"
+        },
+        {
+          "md5": "6a838dd761dff1884fad71944a026501",
+          "info": {
+            "title": "B.B.K.K.B.K.K.",
+            "artist": "nora2r / 出前",
+            "genre": "UK HARDCORE",
+            "subtitles": [
+              "HYPER"
+            ],
+            "subartists": [],
+            "difficulty": 3,
+            "level": 7
+          },
+          "noteCount": 714,
+          "bpm": {
+            "init": 170,
+            "min": 170,
+            "median": 170,
+            "max": 170
+          },
+          "duration": 125.6470588235294,
+          "scratch": true,
+          "keys": "7K",
+          "file": "h.bms"
+        },
+        {
+          "md5": "0b8ff4ac23adc8da1ba6249b15769726",
+          "info": {
+            "title": "B.B.K.K.B.K.K.",
+            "artist": "nora2r / 出前",
+            "genre": "UK HARDCORE",
+            "subtitles": [
+              "NORMAL"
+            ],
+            "subartists": [],
+            "difficulty": 2,
+            "level": 3
+          },
+          "noteCount": 376,
+          "bpm": {
+            "init": 170,
+            "min": 170,
+            "median": 170,
+            "max": 170
+          },
+          "duration": 125.6470588235294,
+          "scratch": true,
+          "keys": "7K",
+          "file": "n.bms"
+        }
+      ],
+      "title": "B.B.K.K.B.K.K.",
+      "artist": "nora2r",
+      "genre": "UK HARDCORE",
+      "bpm": 170,
+      "replaygain": "-14.58 dB",
+      "preview_offset": 34.411,
+      "preview_url": "bemuse-data/preview.mp3",
+      "bms_url": "http://nextreflection.net/music/2r_bbkkbkk/2r_bbkkbkk.rar",
+      "youtube_url": "https://www.youtube.com/watch?v=XHtQO0aLEKI",
+      "bmssearch_id": "3HeAXIjw2H6vNb",
+      "readme": "",
+      "added": "2023-10-16T00:00:00.000Z",
+      "id": "[nora]bbkkbkk",
+      "path": "https://bmsmaster.github.io/songs/[nora]bbkkbkk/"
+    }
+  ]
+}
