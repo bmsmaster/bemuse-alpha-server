@@ -103,6 +103,14 @@
     {
       "url": "https://bmsmaster.github.io/songs/[nora]bbkkbkk/",
       "added": "2023-10-16"
+    },
+    {
+      "url": "https://bmsmaster.github.io/alpha/everydayevermoreinstrumental/",
+      "added": "2023-10-21"
+    },
+    {
+      "url": "https://bmsmaster.github.io/alpha/lifetimeshowtime/",
+      "added": "2023-10-21"
     }
   ],
   "songs": [
@@ -3927,6 +3935,241 @@
       "added": "2023-10-16T00:00:00.000Z",
       "id": "[nora]bbkkbkk",
       "path": "https://bmsmaster.github.io/songs/[nora]bbkkbkk/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "5777c8617c7ca811c52206e3b0c58564",
+          "info": {
+            "title": "Everyday evermore (Instrumental)",
+            "artist": "flicknote vs Dekdekbaloo feat. MindaRyn",
+            "genre": "HOPEFUL LOVE SONG",
+            "subtitles": [
+              "ANOTHER"
+            ],
+            "subartists": [
+              "chart:HOSTC*"
+            ],
+            "difficulty": 0,
+            "level": 12
+          },
+          "noteCount": 2490,
+          "bpm": {
+            "init": 238,
+            "min": 228,
+            "median": 238,
+            "max": 238
+          },
+          "duration": 153.06651360508798,
+          "scratch": true,
+          "keys": "7K",
+          "bga": {
+            "file": "bga.mp4",
+            "offset": 1.0084033613445378
+          },
+          "file": "a.bmson"
+        },
+        {
+          "md5": "caaa70d80234d7f450d5bd1aa38a4fd9",
+          "info": {
+            "title": "Everyday evermore (Instrumental)",
+            "artist": "flicknote vs Dekdekbaloo feat. MindaRyn",
+            "genre": "HOPEFUL LOVE SONG",
+            "subtitles": [
+              "DRUMS"
+            ],
+            "subartists": [],
+            "difficulty": 0,
+            "level": 11
+          },
+          "noteCount": 1667,
+          "bpm": {
+            "init": 238,
+            "min": 228,
+            "median": 238,
+            "max": 238
+          },
+          "duration": 153.06651360508798,
+          "scratch": true,
+          "keys": "7K",
+          "bga": {
+            "file": "bga.mp4",
+            "offset": 1.0084033613445378
+          },
+          "file": "d.bmson"
+        },
+        {
+          "md5": "3105c8f4ef5d98d54a1f2df4e65efa61",
+          "info": {
+            "title": "Everyday evermore (Instrumental)",
+            "artist": "flicknote vs Dekdekbaloo feat. MindaRyn",
+            "genre": "HOPEFUL LOVE SONG",
+            "subtitles": [
+              "HYPER"
+            ],
+            "subartists": [],
+            "difficulty": 0,
+            "level": 10
+          },
+          "noteCount": 1516,
+          "bpm": {
+            "init": 238,
+            "min": 228,
+            "median": 238,
+            "max": 238
+          },
+          "duration": 153.06651360508798,
+          "scratch": true,
+          "keys": "7K",
+          "bga": {
+            "file": "bga.mp4",
+            "offset": 1.0084033613445378
+          },
+          "file": "h.bmson"
+        },
+        {
+          "md5": "9380f3e11769c45ae51592ba39c5d352",
+          "info": {
+            "title": "Everyday evermore (Instrumental)",
+            "artist": "flicknote vs Dekdekbaloo feat. MindaRyn",
+            "genre": "HOPEFUL LOVE SONG",
+            "subtitles": [
+              "LIGHT"
+            ],
+            "subartists": [],
+            "difficulty": 0,
+            "level": 3
+          },
+          "noteCount": 355,
+          "bpm": {
+            "init": 238,
+            "min": 238,
+            "median": 238,
+            "max": 238
+          },
+          "duration": 151.489435898401,
+          "scratch": true,
+          "keys": "7K",
+          "bga": {
+            "file": "bga.mp4",
+            "offset": 1.0084033613445378
+          },
+          "file": "l.bmson"
+        },
+        {
+          "md5": "8f2f3f14b1564976126787a9ff5e3bf3",
+          "info": {
+            "title": "Everyday evermore (Instrumental)",
+            "artist": "flicknote vs Dekdekbaloo feat. MindaRyn",
+            "genre": "HOPEFUL LOVE SONG",
+            "subtitles": [
+              "NORMAL"
+            ],
+            "subartists": [],
+            "difficulty": 0,
+            "level": 7
+          },
+          "noteCount": 846,
+          "bpm": {
+            "init": 238,
+            "min": 228,
+            "median": 238,
+            "max": 238
+          },
+          "duration": 153.06651360508798,
+          "scratch": true,
+          "keys": "7K",
+          "bga": {
+            "file": "bga.mp4",
+            "offset": 1.0084033613445378
+          },
+          "file": "n.bmson"
+        },
+        {
+          "md5": "84b77b24f330970a4e126cd7d3ecd6f9",
+          "info": {
+            "title": "Everyday evermore (Instrumental)",
+            "artist": "flicknote vs Dekdekbaloo feat. MindaRyn",
+            "genre": "HOPEFUL LOVE SONG",
+            "subtitles": [
+              "PIANO"
+            ],
+            "subartists": [],
+            "difficulty": 0,
+            "level": 9
+          },
+          "noteCount": 1500,
+          "bpm": {
+            "init": 238,
+            "min": 228,
+            "median": 238,
+            "max": 238
+          },
+          "duration": 153.06651360508798,
+          "scratch": true,
+          "keys": "7K",
+          "bga": {
+            "file": "bga.mp4",
+            "offset": 1.0084033613445378
+          },
+          "file": "p.bmson"
+        }
+      ],
+      "title": "Everyday evermore (Instrumental)",
+      "artist": "flicknote vs Dekdekbaloo feat. MindaRyn",
+      "genre": "HOPEFUL LOVE SONG",
+      "bpm": 238,
+      "replaygain": "-7.18 dB",
+      "preview_offset": 66.554,
+      "preview_url": "bemuse-data/preview.mp3",
+      "back_image_url": "bemuse-data/back_image.jpg",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.jpg",
+      "added": "2023-10-21T00:00:00.000Z",
+      "id": "everydayevermoreinstrumental",
+      "path": "https://bmsmaster.github.io/alpha/everydayevermoreinstrumental/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "7b2918220b531560ba243023633cfebe",
+          "info": {
+            "title": "Lifetime Showtime (Looktime Remix)",
+            "artist": "FUWAMOCO remixed by BMS Chart Master",
+            "genre": "Hololive Remixes",
+            "subtitles": [],
+            "subartists": [],
+            "difficulty": 0,
+            "level": 11
+          },
+          "noteCount": 753,
+          "bpm": {
+            "init": 180,
+            "min": 180,
+            "median": 180,
+            "max": 180
+          },
+          "duration": 97.66666666666667,
+          "scratch": true,
+          "keys": "7K",
+          "file": "chart.bmson"
+        }
+      ],
+      "title": "Lifetime Showtime (Looktime Remix)",
+      "artist": "FUWAMOCO remixed by BMS Chart Master",
+      "genre": "Hololive Remixes",
+      "bpm": 180,
+      "replaygain": "-11.92 dB",
+      "preview_offset": 53.333,
+      "preview_url": "bemuse-data/preview.mp3",
+      "song_url": "https://soundcloud.com/bms-chart-master/ls-bms",
+      "bms_url": "https://drive.google.com/file/d/1OhaKZ-h2nsp4NrICaRvwQclrHDwgp8iF/view",
+      "bmssearch_id": "3SkwkvuqYGMnOG",
+      "readme": "README.md",
+      "added": "2023-10-21T00:00:00.000Z",
+      "id": "lifetimeshowtime",
+      "path": "https://bmsmaster.github.io/alpha/lifetimeshowtime/"
     }
   ]
 }
